@@ -1,0 +1,3169 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The pilgrim's viaticum, or, The destitute but not forlorn being a divine poem / digested from meditations upon the Holy Scripture by Eliz. Tipper.</title>
+            <author>Tipper, Elizabeth.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 120 KB of XML-encoded text transcribed from 43 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A62678</idno>
+            <idno type="STC">Wing T1305_VARIANT</idno>
+            <idno type="STC">ESTC R33834</idno>
+            <idno type="EEBO-CITATION">13576420</idno>
+            <idno type="OCLC">ocm 13576420</idno>
+            <idno type="VID">100456</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A62678)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 100456)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1053:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The pilgrim's viaticum, or, The destitute but not forlorn being a divine poem / digested from meditations upon the Holy Scripture by Eliz. Tipper.</title>
+                  <author>Tipper, Elizabeth.</author>
+               </titleStmt>
+               <extent>83 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by J. Wilkins ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1698.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: pages stained.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Bible --  Meditations.</term>
+               <term>Meditations.</term>
+               <term>Theology, Practical.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Louis Goldberg</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Louis Goldberg</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:100456:1"/>
+            <pb facs="tcp:100456:1" rendition="simple:additions"/>
+            <pb facs="tcp:100456:2"/>
+            <pb facs="tcp:100456:2"/>
+            <p>THE Pilgrim's Viaticum: OR, THE DESTITUTE, but not FORLORN. BEING A DIVINE POEM, Digeſted from MEDITATIONS UPON THE <hi rend="blackletterType">Holy Scripture.</hi>
+            </p>
+            <p>By <hi>ELIZ. TIPPER.</hi>
+            </p>
+            <q>Oh how love I thy Law! It is my Meditation all the Day,
+<bibl>
+                  <hi>Pſal. 119.</hi> Ver. <hi>97.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>J. Wilkins,</hi> near <hi>Fleet-ſtreet;</hi> and Sold by the Bookſellers of <hi>London</hi> and <hi>Weſtminſter,</hi> 1698.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:100456:3"/>
+            <pb facs="tcp:100456:3"/>
+            <head>TO THE <hi>Right Honourable and Renownedly Vertuous,</hi> THE Lady COVENTRY.</head>
+            <opener>
+               <salute>MADAM,</salute>
+            </opener>
+            <p>THE Corruptions of this Age are ſo ſtrangly increaſed and complyed with, that few com<g ref="char:EOLhyphen"/>plain of them as <hi>Temptations;</hi> but, with a Modiſh Curioſity, rather affect them as things faſhionable; ſo that to re<g ref="char:EOLhyphen"/>buke Vice boldly, requires more Courage than our Sex uſually pretend to; and not to fall in with it, looks like a piece of Singu<g ref="char:EOLhyphen"/>larity.</p>
+            <pb facs="tcp:100456:4"/>
+            <p>But, thanks be to GOD, that <hi>Piety</hi> and <hi>Vertue</hi> have ſtill a good Name in the World; and there are ſome <hi>Illuſtrious Perſons,</hi> who, by their great Examples, give them Coun<g ref="char:EOLhyphen"/>tenance, and a juſt Patronage. Hence it is I addreſs Your <hi>Ladyſhip</hi> for Sanctuary, knowing, that amidſt the Storms and Per<g ref="char:EOLhyphen"/>ſecutions of a degenerate Age, my humble Endeavours can meet with no ſecurer Har<g ref="char:EOLhyphen"/>bor, than under Your <hi>Ladyſhips</hi> Protection.</p>
+            <p>I have, in this Eſſay, preſented Your <hi>La<g ref="char:EOLhyphen"/>dyſhip</hi> with ſome <hi>Conſolatory Thoughts,</hi> un<g ref="char:EOLhyphen"/>der the uneaſy Circumſtances of my own Life: This can affect Your <hi>Ladyſhip</hi> no o<g ref="char:EOLhyphen"/>therwiſe than as You are ſurrounded with the Contraries; or in that You have nobly conquer'd thoſe Sorrows, which weaker Minds are forced to labour under all their Days.</p>
+            <p>May Heaven continue its Bleſſings to the Age, by preſerving Your <hi>Ladyſhip</hi> as
+<pb facs="tcp:100456:4"/>the great Luminary of <hi>Devotion,</hi> and <hi>Cha<g ref="char:EOLhyphen"/>rity,</hi> and the <hi>Patroneſs</hi> of all thoſe who, in <hi>their</hi> Order, practiſe the ſame <hi>Vertues</hi> in Sincerity: Which is the Prayers of,</p>
+            <closer>
+               <salute>MADAM, </salute> 
+               <signed>
+                  <hi>Your Ladiſhips most Humble Obedient, and most Devoted Servant,</hi> Elizabeth Tipper.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="poem">
+            <pb facs="tcp:100456:5"/>
+            <pb n="7" facs="tcp:100456:5"/>
+            <head>In Laudem Dominae <hi>ELIZABETHAE TIPPERAE,</hi> Divinae Poetioes Studio<g ref="char:EOLhyphen"/>ſae, nec non horum Miſcellaneorum Au<g ref="char:EOLhyphen"/>thoris Percellebris.</head>
+            <lg>
+               <l>
+                  <hi>LUX tua fulgeſcat latum diffuſa per Orbem,</hi>
+               </l>
+               <l>
+                  <hi>O Decus, &amp; Sexûs Gloria Magna tui.</hi>
+               </l>
+               <l>
+                  <hi>Dulces ſcribe modos: Sacris incumbe libellis,</hi>
+               </l>
+               <l>
+                  <hi>Dum ſis Angelicis Miſta Puella Choris.</hi>
+               </l>
+               <l>
+                  <hi>Summa petas</hi> Niſae: <hi>Nobis eris altera</hi> Sappho:</l>
+               <l>
+                  <hi>Cantabunt numeros ſecula ſera tuos.</hi>
+               </l>
+               <l>
+                  <hi>Dulcia</hi> Tipperae <hi>reſonabunt laudibus Antra</hi>
+               </l>
+               <l>Parnaſſi, <hi>&amp;</hi> Cirrhae <hi>concava ſaxa ſacrae.</hi>
+               </l>
+               <l>
+                  <hi>Carmina</hi> Tipperae <hi>doctus laudavit</hi> Apollo:</l>
+               <l>Muſae <hi>verſiculis obſtupuêre tuis.</hi>
+               </l>
+               <l>
+                  <hi>Carmina mirata est</hi> Tipperae <hi>docta</hi> Minerva</l>
+               <l>
+                  <hi>Mollia Divinae,</hi> Pieridum<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> 
+                  <hi>Chori.</hi>
+               </l>
+               <l>
+                  <hi>Laurea</hi> Tipperae <hi>porrexit ſerta</hi> Thalia,</l>
+               <l>
+                  <hi>At<expan>
+                        <am>
+                           <g ref="char:abque"/>
+                        </am>
+                        <ex>que</ex>
+                     </expan> ait, "Haec veſtris indue</hi> Signa <hi>Comis.</hi>
+               </l>
+               <l>
+                  <hi>"O Tibi quàm</hi> dulcis, <hi>quàm</hi> lucidus <hi>ingenii fons!</hi>
+               </l>
+               <l>
+                  <hi>"Quantum</hi> Divino manat <hi>ab Ore</hi> melos!</l>
+               <l>
+                  <hi>"Ornamenta gerit</hi> Sexus Pius altera: Tipper</l>
+               <l>
+                  <hi>"Ornata est</hi> hederis <hi>tempora docta ſacris.</hi>
+               </l>
+            </lg>
+            <closer>
+               <signed>Joſ. Perkins, <hi>A.B.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <pb n="8" facs="tcp:100456:6"/>
+            <head>Thus Engliſhed:</head>
+            <lg>
+               <l>THy <hi>brighter Luſtre</hi> doth it ſelf diſperſe;</l>
+               <l>And, like the <hi>Sun,</hi> inform the Univerſe:</l>
+               <l>Thou, <hi>Glory</hi> of Thy <hi>Sex! Write, Gharm,</hi> and <hi>Gain,</hi>
+               </l>
+               <l>The <hi>Angel-Conſort</hi> by thy <hi>Sacred Strain:</hi>
+               </l>
+               <l>Climb <hi>Niſa,</hi> MAID, Thou ſhalt our <hi>Sappho</hi> be,</l>
+               <l>Thy <hi>Pious Odes</hi> ſung by Poſterity;</l>
+               <l>The pleaſing <hi>Cells</hi> of all inſpired Verſe,</l>
+               <l>
+                  <hi>Parnaſſus, Cyrrha,</hi> ſhall Thy <hi>Name</hi> rehearſe:</l>
+               <l>By learn'd <hi>Apollo</hi> Thou art lov'd and prais'd,</l>
+               <l>And, at Thy <hi>Skill,</hi> the <hi>Muſes</hi> ſtand amaz'd:</l>
+               <l>
+                  <hi>Minerva</hi> and the <hi>Pieridian</hi> Quire,</l>
+               <l>Thy ſoft and ſublime <hi>Poetry</hi> admire;</l>
+               <l>
+                  <hi>Thalia</hi> holds the <hi>Lawrel-Garland</hi> forth,</l>
+               <l>And cries, <hi>This Trophy well becomes Thy Worth;</hi>
+               </l>
+               <l>
+                  <hi>How ſweet's Thy</hi> ſlowing Wit! <hi>How pure Thy</hi> Hymns!</l>
+               <l>
+                  <hi>With</hi> grateful Muſick <hi>ſtore the</hi> Seraphims.</l>
+               <l>
+                  <hi>By others of</hi> Thy Sex <hi>be</hi> Top-knots <hi>worn,</hi>
+               </l>
+               <l>
+                  <hi>The</hi> Immortal Ivy <hi>ſhall</hi> Thy Head <hi>adorn.</hi>
+               </l>
+            </lg>
+            <closer>
+               <signed>
+                  <hi>John Torbuck,</hi> Rector of <hi>Lurgerſhall, Wilts.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <pb n="9" facs="tcp:100456:6"/>
+            <head>
+               <hi>To Mrs.</hi> Tipper, <hi>on her incomparably Ingenious and Divine Poems.</hi>
+            </head>
+            <lg>
+               <l>HAil! <hi>Mirrour</hi> of thy <hi>Sex,</hi> in whom we find,</l>
+               <l>
+                  <hi>Reſplendant Rays,</hi> in your <hi>Seraphick Mind,</hi>
+               </l>
+               <l>Whilſt Great <hi>JEHOVAH</hi> does your <hi>Soul</hi> inſpire,</l>
+               <l>And <hi>Cherubs</hi> ſing their <hi>Anthems</hi> to your <hi>Lyre,</hi>
+               </l>
+               <l>Then you ſalute, with <hi>Bays</hi> and <hi>Ivy</hi> crown'd,</l>
+               <l>Wreath'd by <hi>Minerva's</hi> Hand, in <hi>Miſtick round,</hi>
+               </l>
+               <l>Your <hi>Muſe</hi> proclaim, tuning <hi>Immortal Sound;</hi>
+               </l>
+               <l>Whence <hi>Sacred Flights,</hi> do <hi>Balmy Sweets</hi> propoſe,</l>
+               <l>More <hi>fragrant</hi> far, than <hi>Jaſs'min,</hi> or the <hi>Roſe,</hi>
+               </l>
+               <l>And your <hi>Perſwaſive Sounds</hi> for to rehearſe,</l>
+               <l>Oblige <hi>High Adoration</hi> in your <hi>Verſe;</hi>
+               </l>
+               <l>For none <hi>Oblation</hi> pay to <hi>Truths Divine,</hi>
+               </l>
+               <l>But <hi>Reverence</hi> owe, to thoſe made them <hi>ſublime;</hi>
+               </l>
+               <l>For how can <hi>Precepts</hi> ſtrike obedient <hi>Awe,</hi>
+               </l>
+               <l>Unleſs <hi>imprinted</hi> by thoſe made the <hi>Law:</hi>
+               </l>
+               <l>Hence <hi>Paul</hi> politely <hi>Rhetorician</hi> plays,</l>
+               <l>
+                  <hi>David</hi> allures, with <hi>Hymns</hi> and <hi>Spiritual Lays,</hi>
+               </l>
+               <l>Conſult the <hi>God-like Rules</hi> of <hi>Levy</hi>'s Tribe,</l>
+               <l>The Heathens <hi>Envy,</hi> but Religion's <hi>Pride,</hi>
+               </l>
+               <pb n="10" facs="tcp:100456:7"/>
+               <l>In all the <hi>Maze</hi> of <hi>Ignorance</hi> you'l ſee,</l>
+               <l>Tradition, <hi>Worſhip</hi> rais'd, to <hi>One</hi> and <hi>Three:</hi>
+               </l>
+               <l>As theſe, by <hi>God</hi> inſpir'd, perpetuate <hi>Fame,</hi>
+               </l>
+               <l>By <hi>Pious Acts,</hi> and an <hi>All-glorious Name;</hi>
+               </l>
+               <l>So you both <hi>Darling</hi> of the <hi>Powers</hi> Above,</l>
+               <l>And <hi>Muſes</hi> too, their <hi>Manſion</hi> of <hi>true Love,</hi>
+               </l>
+               <l>Elected are, their <hi>White</hi> and <hi>Galleſs Dove;</hi>
+               </l>
+               <l>What other <hi>Ladies</hi> write, is <hi>Hate</hi> or <hi>Ire,</hi>
+               </l>
+               <l>Or elſe <hi>ſoft Strains,</hi> heated thro' <hi>Paſſion's Fire,</hi>
+               </l>
+               <l>Whoſe <hi>Thoughts</hi> to <hi>wanton Bliſs</hi> devoted are,</l>
+               <l>Whilſt <hi>Hallow'd Rites</hi> are your <hi>peculiar Care,</hi>
+               </l>
+               <l>Whoſe <hi>finite Joys,</hi> ſcarce reach a <hi>barren Praiſe,</hi>
+               </l>
+               <l>When Your's, with <hi>Tranſports, Emulation</hi> raiſe,</l>
+               <l>Compar'd to <hi>that,</hi> ſo vaſt tranſcendant's this</l>
+               <l>Of <hi>Theirs</hi> and <hi>Yours,</hi> no more proportion is,</l>
+               <l>Than <hi>fleeting Joys,</hi> of <hi>momentary ſtay,</hi>
+               </l>
+               <l>To <hi>Millions</hi> of <hi>Millions</hi> there in <hi>endleſs Day.</hi>
+               </l>
+               <l>Go on, <hi>bleſs'd Maid,</hi> this <hi>Galaxy</hi> purſue,</l>
+               <l>By <hi>God's above,</hi> decreed alone for you,</l>
+               <l>Your <hi>beatifick Viſions, Glory</hi> ſing,</l>
+               <l>Whilſt <hi>Eccho's</hi> jocound Acclamations bring,</l>
+               <l>And <hi>Io-Paeans</hi> ever, ever ring;</l>
+               <l>With rilling <hi>Cadence</hi> eternize the <hi>Nine,</hi>
+               </l>
+               <l>Indeliable to <hi>periſhing Fate</hi> of <hi>Time,</hi>
+               </l>
+               <l>Till your <hi>Tranſlation</hi> to the <hi>Heavenly Throne,</hi>
+               </l>
+               <l>Their <hi>Hallelujahs</hi> ſound, to the <hi>All-great Three, One.</hi>
+               </l>
+            </lg>
+            <closer>
+               <signed>W. P. Gent</signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <pb n="11" facs="tcp:100456:7"/>
+            <head>
+               <hi>To Mrs.</hi> Tipper, <hi>on her Paraphraſtical Poems, upon ſeveral Select Paſſages of</hi> Scripture.</head>
+            <lg>
+               <l>CEaſe <hi>Trumpet,</hi> ceaſe, and gentle <hi>Stars</hi> inſpire</l>
+               <l>Our long <hi>diſtracted World</hi> with <hi>nobler Fire,</hi>
+               </l>
+               <l>
+                  <hi>Art, Science, Wit,</hi> whoſe <hi>Empire War</hi> invades,</l>
+               <l>Riſe with thy <hi>Lawrel</hi> from the <hi>Northern Shades,</hi>
+               </l>
+               <l>While <hi>meaner Monarchs juſtle</hi> in their <hi>Claim,</hi>
+               </l>
+               <l>
+                  <hi>Aſſert</hi> thy <hi>Right</hi> of <hi>Univerſal Fame.</hi>
+               </l>
+               <l>Thus <hi>far propitious Heaven, implor'd,</hi> does yield,</l>
+               <l>And to <hi>Minerva's Off-ſpring</hi> leaves the <hi>Field.</hi>
+               </l>
+               <l>An harder <hi>Task</hi> my <hi>Suppliant Muſe</hi> does vex,</l>
+               <l>While I <hi>command,</hi> not <hi>court,</hi> the <hi>aſpiring Sex,</hi>
+               </l>
+               <l>Their <hi>trifling Glories</hi> vanquiſh'd to ſubmit,</l>
+               <l>Proſtrate to this <hi>She-Oracle</hi> of <hi>Wit,</hi>
+               </l>
+               <l>Whoſe <hi>Sacred Muſe</hi> in <hi>Hallalujahs</hi> move,</l>
+               <l>To <hi>ſing</hi> and <hi>praiſe</hi> the <hi>GOD</hi> of <hi>Peace</hi> and <hi>Love,</hi>
+               </l>
+               <l>The <hi>modern Wits</hi> embroider with a <hi>Grace,</hi>
+               </l>
+               <l>As <hi>Proſtitutes</hi> do an uncomely <hi>Face:</hi>
+               </l>
+               <l>Immodeſt <hi>Themes</hi> ſo bold, with <hi>Art</hi> ſo <hi>fine,</hi>
+               </l>
+               <l>And, <hi>Wythes</hi> like, firſt rot, before they <hi>ſhine,</hi>
+               </l>
+               <l>The <hi>Lawrel</hi> he uſurps whoſe leaſt <hi>divine,</hi>
+               </l>
+               <pb n="12" facs="tcp:100456:8"/>
+               <l>Striving to <hi>eaſe</hi> our <hi>Cares,</hi> but cannot <hi>pleaſe,</hi>
+               </l>
+               <l>And intermit thoſe <hi>Pains</hi> they ne'r can eaſe.</l>
+               <l>Such <hi>Balm</hi> in her <hi>Philoſophy</hi> is found,</l>
+               <l>As makes the <hi>bitter Cup</hi> of <hi>Life</hi> go round,</l>
+               <l>
+                  <hi>Purl'd</hi> with the <hi>Quinteſſence</hi> of <hi>Moral Wit,</hi>
+               </l>
+               <l>Which all that read, may <hi>taſte,</hi> but none can <hi>get.</hi>
+               </l>
+               <l>
+                  <hi>David,</hi> to ſee his <hi>Songs</hi> reſtor'd from the <hi>Dark,</hi>
+               </l>
+               <l>
+                  <hi>Rejoic'd,</hi> as once he did before the <hi>Ark,</hi>
+               </l>
+               <l>And, from the <hi>Willows,</hi> takes his <hi>tuneful Lyre,</hi>
+               </l>
+               <l>Whilſt in her <hi>Hand</hi> he kindles <hi>Sacred Fire,</hi>
+               </l>
+               <l>By which he did the cruel <hi>Saul</hi> aſſwage,</l>
+               <l>To quench <hi>worſe Spirits</hi> of our Modern Age.</l>
+               <l>What <hi>Paul</hi> and <hi>Seneca</hi> in Labours wrote,</l>
+               <l>
+                  <hi>She</hi> in her <hi>Life</hi> has to <hi>Perfection</hi> brought,</l>
+               <l>To keep the <hi>Paſſions</hi> in ſevereſt Awe,</l>
+               <l>Reject <hi>Uſurping Arbitrary Law,</hi>
+               </l>
+               <l>And, when no <hi>Safety</hi> can from <hi>Tempest</hi> find,</l>
+               <l>Retires within the <hi>Halcyon</hi> of her <hi>Mind:</hi>
+               </l>
+               <l>Thus, ne'r <hi>engaging,</hi> meets with no <hi>defeat,</hi>
+               </l>
+               <l>But gains a <hi>Victory</hi> by a <hi>wiſe Retreat.</hi>
+               </l>
+            </lg>
+            <closer>
+               <signed>
+                  <hi>A. L.</hi> Eſquire.</signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <pb n="13" facs="tcp:100456:8" rendition="simple:additions"/>
+            <head>
+               <hi>To Mrs.</hi> Tipper, <hi>on her Divine Poems.</hi>
+            </head>
+            <lg>
+               <l>AS we are told, <hi>That all they do above,</hi>
+                  <note place="margin">Cowley.</note>
+               </l>
+               <l>
+                  <hi>Is only that they Sing, and that they Love;</hi>
+               </l>
+               <l>What <hi>wondrous Charms</hi> muſt <hi>endleſs Hymns</hi> inſpire,</l>
+               <l>When the <hi>Immortal Songſters</hi> of the Choir</l>
+               <l>Not ev'n their whole long <hi>Eternal Chant</hi> can't tire,</l>
+               <l>And the <hi>Celeſtial Muſe,</hi> whilſt all around</l>
+               <l>The <hi>Extaſi'd, continu'd Raptures</hi> ſound?</l>
+               <l>That <hi>honour'd Head,</hi> what <hi>Glories</hi> has <hi>ſhe</hi> given,</l>
+               <l>Thus <hi>grac'd,</hi> to furniſh half the <hi>Work</hi> of <hi>Heaven?</hi>
+               </l>
+               <l>The <hi>Muſes,</hi> yes, in that <hi>Seraphick Sphear,</hi>
+               </l>
+               <l>Are all <hi>Urania</hi>'s and <hi>Apollo</hi> there,</l>
+               <l>Beneath the <hi>Footſtool</hi> of <hi>JEHOVAH</hi>'s Throne,</l>
+               <l>Kneels to a <hi>Brighter Sun</hi> than was his own.</l>
+               <l>If <hi>Harmony,</hi> with that <hi>enlightning Beam,</hi>
+               </l>
+               <l>Tunes her loud <hi>Muſick</hi> to that <hi>Mighty Theme,</hi>
+               </l>
+               <l>
+                  <hi>Madam,</hi> Your <hi>MUSE,</hi> tho' with a <hi>feebler Voice,</hi>
+               </l>
+               <l>The ſame <hi>High Subject</hi> makes her <hi>Sacred Choice;</hi>
+               </l>
+               <l>Tun'd to the Great <hi>Creator</hi>'s juſt <hi>Applauſe,</hi>
+               </l>
+               <l>That <hi>Pen</hi> writes <hi>best,</hi> that from <hi>Luke's Penſil</hi> draws,</l>
+               <l>And 'tis that <hi>Poetry</hi> does truly <hi>ſhine,</hi>
+               </l>
+               <l>That Copies from <hi>Originals Divine.</hi>
+               </l>
+            </lg>
+            <closer>
+               <signed>
+                  <hi>E. S.</hi> Gent.</signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <pb n="14" facs="tcp:100456:9"/>
+            <head>
+               <hi>To</hi> Mrs. Tipper, <hi>on her</hi> Miſcellany <hi>of</hi> Divine Poems.</head>
+            <lg>
+               <l>AMongſt the <hi>various Actions</hi> of <hi>Mankind,</hi>
+               </l>
+               <l>
+                  <hi>Rivals</hi> in <hi>Wit,</hi> as well as <hi>Love,</hi> we find;</l>
+               <l>But <hi>you,</hi> alone, the <hi>glorious Prize</hi> muſt <hi>gain,</hi>
+               </l>
+               <l>You merit it by ſo <hi>Divine</hi> a <hi>Strain;</hi>
+               </l>
+               <l>
+                  <hi>Urania</hi> is thy <hi>Muſe,</hi> the <hi>Heavenly Quire</hi>
+               </l>
+               <l>Thy <hi>Soul</hi> with <hi>purest Raptures</hi> does inſpire,</l>
+               <l>
+                  <hi>Chaſte</hi> as thy <hi>Self,</hi> and <hi>Sacred</hi> are thy <hi>Rhimes,</hi>
+               </l>
+               <l>Which, not <hi>polluted</hi> by <hi>corrupting Times,</hi>
+               </l>
+               <l>Shall make <hi>Profaner Scriblers</hi> all ſubmit,</l>
+               <l>And own <hi>thee</hi> as the <hi>Type</hi> of <hi>Heavenly Wit;</hi>
+               </l>
+               <l>Thy <hi>Theme</hi> and <hi>Inſpirations</hi> from above;</l>
+               <l>
+                  <hi>Heaven</hi> is thy <hi>Parnaſſus</hi> and thy <hi>Love;</hi>
+               </l>
+               <l>Each <hi>riſing Thought</hi> does with the <hi>bluſhing Morn,</hi>
+               </l>
+               <l>The <hi>Beauties</hi> of thy <hi>chaſter Soul</hi> adorn;</l>
+               <l>A <hi>Harmony</hi> in every <hi>Line</hi> appears,</l>
+               <l>Much like the <hi>Heavenly Muſick</hi> of the <hi>Spheres:</hi>
+               </l>
+               <l>
+                  <hi>Phillips</hi> and <hi>Behn,</hi> whoſe <hi>Praiſe Fame</hi> ſtill rehearſe,</l>
+               <l>In all their <hi>Works</hi> don't paralel thy <hi>Verſe,</hi>
+               </l>
+               <pb n="15" facs="tcp:100456:9"/>
+               <l>Which unto after <hi>Ages</hi> ſhall remain,</l>
+               <l>And the <hi>ſweet Odour</hi> of thy <hi>Worth</hi> retain.</l>
+               <l>
+                  <hi>Parnaſſus</hi> is but <hi>low,</hi> thy <hi>flighty Soul,</hi>
+               </l>
+               <l>Her <hi>Head</hi> above that <hi>Mountain</hi> does Extol,</l>
+               <l>The <hi>Myſtick Scite</hi> of <hi>Heaven</hi> is thy Aim,</l>
+               <l>
+                  <hi>Celeſtial LOVE,</hi> not <hi>Carnal,</hi> is thy <hi>Theme,</hi>
+               </l>
+               <l>Tho' the moſt <hi>Nice</hi> of <hi>Criticks</hi> do <hi>combine,</hi>
+               </l>
+               <l>They cannot <hi>Damn</hi> a thing that's ſo <hi>Divine.</hi>
+               </l>
+            </lg>
+            <closer>
+               <signed>John Hallum.</signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <pb n="16" facs="tcp:100456:10"/>
+            <head>
+               <hi>To Mrs.</hi> Eliz. Tipper, <hi>on her Super-excellent Miſcellany of</hi> Divine Poems.</head>
+            <head type="sub">Gratior est Virtus e corpore pulchro veniens.</head>
+            <lg>
+               <l>HAd <hi>Herbert, Quarles,</hi> or other <hi>Sacred Pen,</hi>
+               </l>
+               <l>Theſe <hi>Meditations</hi> tun'd, <hi>Encomiums</hi> then</l>
+               <l>Were but <hi>juſt Tributes</hi> to the <hi>Work Divine;</hi>
+               </l>
+               <l>But ſince thy <hi>Lips</hi> the <hi>Verſes</hi> more <hi>refine,</hi>
+               </l>
+               <l>
+                  <hi>Celeſtial Hymns</hi> ſhould ſound before thy <hi>Shrine.</hi>
+               </l>
+               <l>What ſhall I ſay in ſuch a ſpacious <hi>Field,</hi>
+               </l>
+               <l>Where th' meaneſt <hi>Shrubs</hi> large <hi>Contemplations</hi> yield;</l>
+               <l>Thy <hi>Wit's Refin'd,</hi> thy <hi>Theme,</hi> as Heaven, <hi>Sublime,</hi>
+               </l>
+               <l>Each <hi>Breathing Accent</hi> makes a <hi>Clouſe Divine.</hi>
+               </l>
+               <l>Oft I have ſeen, like <hi>Parrats</hi> in a <hi>Cage,</hi>
+               </l>
+               <l>
+                  <hi>Men Prate</hi> by <hi>Rote,</hi> upon the <hi>publick Stage,</hi>
+               </l>
+               <l>Tell <hi>this</hi> and <hi>that,</hi> and <hi>Precepts</hi> largely <hi>Preach,</hi>
+               </l>
+               <l>Tho' few, like thee, by <hi>try'd Experience Teach:</hi>
+               </l>
+               <l>
+                  <hi>Experienc'd Knowledge, Miſtreſs</hi> of <hi>True Art,</hi>
+               </l>
+               <l>In <hi>Sweeteſt Lays</hi> thou doſt to us <hi>impart.</hi>
+               </l>
+               <l>Go on, <hi>Chast Maid,</hi> thy <hi>Virtues</hi> ſtill renew,</l>
+               <l>Whilſt in thy <hi>Lines</hi> at once we clearly <hi>view,</hi>
+               </l>
+               <l>
+                  <hi>Minerva</hi> and the Beautious <hi>Venus</hi> too.</l>
+            </lg>
+            <q>Many Daughters have done virtuouſly, but thou ex<g ref="char:EOLhyphen"/>cellest them all,
+<bibl>
+                  <hi>Prov. 31.29.</hi>
+               </bibl>
+            </q>
+            <closer>
+               <signed>E. Steele.</signed>
+            </closer>
+         </div>
+         <div type="poem">
+            <pb n="17" facs="tcp:100456:10"/>
+            <head>On the Holy Bible.</head>
+            <lg>
+               <l>NOT mortal Wit, but bleſt <hi>Aetherial Fire,</hi>
+               </l>
+               <l>Aſſiſt me, and my ſacred Muſe inſpire;</l>
+               <l>My Subject's greater than thoſe Glories all,</l>
+               <l>That gliſter in the ſplendor of Earths Ball:</l>
+               <l>
+                  <hi>Scepters</hi> and <hi>Crowns</hi> fall much below my Theme,</l>
+               <l>And <hi>Heroes</hi> warlike Deeds are but a Dream:</l>
+               <l>No Extaſy of Lovers ſoft Delight,</l>
+               <l>But of the Oracles of God I write.</l>
+               <l>Shall I, with reverence, ſtrive to ſhow the worth?</l>
+               <l>Alas! 'tis not for Clay to ſet it forth.</l>
+               <l>All that the largeſt Soul on Earth can crave,</l>
+               <l>Within this <hi>ſacred Volume</hi> they may have:</l>
+               <l>This is <hi>Perfections Clew,</hi> by whoſe bleſt guide</l>
+               <l>Full Streams of Joys divine for ever tide,</l>
+               <l>Where each diſtruſting Soul may ſwim with eaſe,</l>
+               <l>In all the bliſsful Billows that can pleaſe:</l>
+               <l>The Learned may on choiceſt Knowledge feed;</l>
+               <l>The Ignorant of greateſt Wiſdom ſpeed:</l>
+               <l>The Pooreſt, here ſee vaſter Riches ſhine</l>
+               <l>Than ſparkle in the <hi>Spaniards</hi> golden Mine:</l>
+               <pb n="18" facs="tcp:100456:11"/>
+               <l>Here wearied Souls a ſweeter Reſt does crown,</l>
+               <l>Than Bodies on the ſofteſt Beds of Down;</l>
+               <l>And troubled Minds find Peace in larger meaſure,</l>
+               <l>Than Ages give in Halcyon Days of Pleaſure:</l>
+               <l>The Sad with more exalted Joys be fill'd,</l>
+               <l>Than all the Mirth of this vain World can yield:</l>
+               <l>Through <hi>Faith</hi> in <hi>Theſe</hi> the Weak are Stronger made,</l>
+               <l>Than Gyants which the World with Arms invade;</l>
+               <l>
+                  <hi>Wiſdom, Strength, Riches, Joys, Rest, Peace</hi> abound,</l>
+               <l>And all the <hi>Good</hi> of Life in <hi>Them</hi> is found.</l>
+               <l>How vain is She that ſeeks for Comfort, Lord,</l>
+               <l>In any thing, but in <hi>Thy Self</hi> and <hi>Word,</hi>
+               </l>
+            </lg>
+         </div>
+         <div type="poem">
+            <head>
+               <hi>Some</hi> Experimental Paſſages <hi>of my</hi> LIFE, <hi>with</hi> Reflections <hi>upon</hi> Jacob<hi>'s Words,</hi> Few and Evil have the days of the years of my Life been.</head>
+            <lg>
+               <l>'TIs ſtrange that he Unborn, ere he ſaw Light,</l>
+               <l>Deſtin'd a Victor, and Heaven's Favourite,</l>
+               <l>Should almoſt at the Period of his Age,</l>
+               <l>Give this relation of his Pilgrimage,</l>
+               <l>Yet 'tis not ſtrange, ſince <hi>mortal Life</hi> we ſee</l>
+               <l>No more from <hi>Sorrow</hi> than from <hi>Death</hi> is free.</l>
+               <l>My <hi>Life</hi> the aſſertion much has verifi'd,</l>
+               <l>From Part to Part, by ſad Experience try'd,</l>
+               <pb n="19" facs="tcp:100456:11" rendition="simple:additions"/>
+               <l>In all my <hi>Undertakings</hi> ſtill been croſt,</l>
+               <l>And like a <hi>Ball</hi> from hand to hand been toſt.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Five Years</hi> i'th Prime of all my Youth I ſpent,</l>
+               <l>
+                  <hi>Recluſe</hi> as 'twere from the World, in <hi>Baniſhment:</hi>
+               </l>
+               <l>And Hermit like in all things did I dwell,</l>
+               <l>An <hi>uncouth Cottage</hi> ſerving for my <hi>Cell;</hi>
+               </l>
+               <l>For ſeveral Days and Nights ſometimes been dri<g ref="char:EOLhyphen"/>ven</l>
+               <l>To <hi>Silence,</hi> ſave the <hi>Words</hi> I ſpoke to Heaven.</l>
+               <l>My conſtant <hi>Viſits</hi> Fields and Woods receiv'd,</l>
+               <l>Who at my oft reſorting never griev'd;</l>
+               <l>But bounteouſly with Sunſhine, Air, and Shade,</l>
+               <l>Their frequent <hi>Viſitant</hi> ſtill happy made;</l>
+               <l>One dear and courteous Tree, above the reſt,</l>
+               <l>Did oft invite me to become her Gueſt;</l>
+               <l>Upon her root I hourly <hi>ſate,</hi> and <hi>Read,</hi>
+               </l>
+               <l>Her towering Branches ſheltering my Head;</l>
+               <l>And when I Kneel'd, the kind officious Graſs,</l>
+               <l>The verdant Covering of my Cuſhion was.</l>
+               <l>The like Good-will have Hedges to me born,</l>
+               <l>And diſtant Furrows of the growing Corn:</l>
+               <l>To this the Evening oft hath met my <hi>Faſt,</hi>
+               </l>
+               <l>And <hi>Tears</hi> the longeſt day been my <hi>Repast:</hi>
+               </l>
+               <l>Yet theſe <hi>Afflictions,</hi> Lord, more <hi>Joy</hi> I own,</l>
+               <l>Than have the Vicious, who poſſeſs a Throne:</l>
+               <pb n="20" facs="tcp:100456:12"/>
+               <l>Nor can I at a <hi>Flood</hi> of <hi>Tears</hi> repine,</l>
+               <l>Till I forget that <hi>Bloody Sea</hi> of Thine.</l>
+               <l>O grant me <hi>Reſignation</hi> till I ſee</l>
+               <l>How 'tis Thy Pleaſure to diſpoſe of me.</l>
+            </lg>
+            <lg>
+               <l>My <hi>Penance</hi> now ſeem'd ſomething to abate,</l>
+               <l>And glimering Beams of <hi>Sun-ſhine</hi> dart from Fate:</l>
+               <l>
+                  <hi>Two</hi> of my greateſt <hi>Wants</hi> at once ſupply'd,</l>
+               <l>
+                  <hi>IMPLOYMENT</hi> and <hi>SOCIETY</hi> beſide:</l>
+               <l>My <hi>Happineſs.</hi> this large Addition found,</l>
+               <l>
+                  <hi>New Joys</hi> with <hi>Honourable Friendſhip</hi> crown'd.</l>
+               <l>No more my <hi>Brow contracted</hi> now appears,</l>
+               <l>Nor <hi>Eye-Balls</hi> fretted <hi>Red</hi> with <hi>Briny Tears:</hi>
+               </l>
+               <l>Save when in <hi>Penitence</hi> and <hi>Care</hi> I mourn'd,</l>
+               <l>That GOD's withdrawing <hi>Beams</hi> might be return'd</l>
+            </lg>
+            <lg>
+               <l>This <hi>Sun-ſhine Fortune</hi> did not long remain,</l>
+               <l>Ere 'twas eclips'd by a dark Cloud again:</l>
+               <l>My <hi>Comforts</hi> ſever'd by that <hi>Unſeen Hand,</hi>
+               </l>
+               <l>Which <hi>Proſperous</hi> and <hi>Adverſe Fate</hi> both command.</l>
+            </lg>
+            <lg>
+               <l>Then, by the Counſel of a real Friend,</l>
+               <l>I am advis'd my <hi>Precious Time,</hi> to ſpend</l>
+               <l>No more in a poor Village, but repair</l>
+               <l>To a City, try the <hi>Smiles</hi> of <hi>Fortune</hi> there.</l>
+               <pb n="21" facs="tcp:100456:12"/>
+               <l>What this may ſignify, 'tis GOD beſt knows;</l>
+               <l>My <hi>Fortune</hi> ever <hi>Ebbs,</hi> but never <hi>Flows.</hi>
+               </l>
+               <l>The Wicked, Careleſs, Fooliſh; all I ſee,</l>
+               <l>Her <hi>Kindneſs</hi> have, which is deny'd to me:</l>
+               <l>'Tis ſo, Great GOD, and to it I ſubmit,</l>
+               <l>And all things elſe Thy <hi>Wiſdom</hi> ſhall think ſit.</l>
+               <l>
+                  <hi>This</hi> only thing I begg, while I have Breath,</l>
+               <l>
+                  <hi>Grant me an</hi> HONEST LIFE <hi>and</hi> HAPPY-DEATH.</l>
+            </lg>
+         </div>
+         <div n="1" type="meditation">
+            <head>MEDITATION I.</head>
+            <epigraph>
+               <q>Rejoycing in Hope, Patient in Tribulation, continuing inſtant in Prayer.
+<bibl>
+                     <hi>Rom. 12. ver. 12.</hi>
+                  </bibl>
+               </q>
+            </epigraph>
+            <lg>
+               <l>HOW do I Read and Marvel; Read again,</l>
+               <l>And wonder at St. <hi>Paul</hi>'s <hi>Inſpired Pen,</hi>
+               </l>
+               <l>That in <hi>One Verſe</hi> could ſuch a <hi>Sermon</hi> write,</l>
+               <l>And ſo much <hi>Duty</hi> in few <hi>Words</hi> recite.</l>
+               <l>O that my <hi>Practice</hi> his <hi>Three Precepts</hi> wrought,</l>
+               <l>As <hi>Undivided</hi> as the <hi>Mind</hi> and <hi>Thought.</hi>
+               </l>
+               <l>What <hi>Tribulation</hi> is there could ſuppreſs</l>
+               <l>The <hi>Living Flames</hi> of hop'd for <hi>Happineſs,</hi>
+               </l>
+               <l>Which riſes with an unreſiſted Sway,</l>
+               <l>Breaks out in <hi>Light,</hi> and forces <hi>Night</hi> to <hi>Day;</hi>
+               </l>
+               <l>Tramples the <hi>Clouds</hi> of <hi>Darkneſs, new</hi> aſſumes</l>
+               <l>The <hi>Tow'ring Seat,</hi> and <hi>Sadneſs</hi> quite conſumes:</l>
+               <pb n="22" facs="tcp:100456:13"/>
+               <l>Or, if the gnawing Grief of <hi>Diſcontent,</hi>
+               </l>
+               <l>Seem'd, for a while, to keep in Baniſhment,</l>
+               <l>This <hi>Bliſs</hi> of univerſal great <hi>Support,</hi>
+               </l>
+               <l>
+                  <hi>PATIENCE Invincible</hi> would guard the <hi>Fort;</hi>
+               </l>
+               <l>No ſtrugling <hi>Sorrow</hi> ere could make a <hi>Breach,</hi>
+               </l>
+               <l>The Feuds of <hi>Grief</hi> might to my <hi>Spirits</hi> reach;</l>
+               <l>But as a Rock <hi>Unmov'd</hi> ſhould I remain,</l>
+               <l>See the Waves <hi>come, daſh,</hi> and <hi>fall back</hi> again</l>
+               <l>In ſcatter'd Pieces to their furious Main.</l>
+               <l>Laſtly, the <hi>Complication, Spring,</hi> and <hi>Crown</hi>
+               </l>
+               <l>Of theſe <hi>high Bleſſings,</hi> and the reſt, come down</l>
+               <l>By (the unequall'd) <hi>Benefit</hi> of <hi>PRAYER,</hi>
+               </l>
+               <l>Which <hi>Sues, Prevails,</hi> and <hi>Binds</hi> our Makers <hi>Care;</hi>
+               </l>
+               <l>
+                  <hi>This</hi> lock'd the Heavens <hi>Three Years</hi> from giving <hi>Rain;</hi>
+               </l>
+               <l>And <hi>This</hi> brought <hi>Showers,</hi> unlocking them again.</l>
+               <l>
+                  <hi>This</hi> quench'd the <hi>Fire;</hi> when, by their <hi>Aiding</hi> GOD,</l>
+               <l>
+                  <hi>Three Men,</hi> through <hi>Flames,</hi> the <hi>burning Pavement</hi> trod</l>
+               <l>
+                  <hi>This</hi> did a <hi>Life</hi> from <hi>Hungry Lyons</hi> ſave,</l>
+               <l>And made their <hi>Mouths</hi> a <hi>Guard,</hi> deſign'd a <hi>Grave,</hi>
+               </l>
+               <l>So calm'd their <hi>Fury,</hi> huſh'd their <hi>Rage</hi> ſo ſtill,</l>
+               <l>
+                  <hi>They</hi> did not look like things deſign'd to <hi>kill.</hi>
+               </l>
+               <l>
+                  <hi>Bleſt DUTY!</hi> of <hi>Divineſt Inſluence,</hi>
+               </l>
+               <l>I love, adore, and chuſe thy <hi>Excellence:</hi>
+               </l>
+               <l>By <hi>Thee</hi> the <hi>Series</hi> of my <hi>Minutes</hi> can</l>
+               <l>Find <hi>Solid Joys</hi> in this my <hi>Weary Span.</hi>
+               </l>
+               <pb n="23" facs="tcp:100456:13"/>
+               <l>Had I all <hi>Pleaſures</hi> Earth could give beſide,</l>
+               <l>They'd want a <hi>Charm,</hi> were thy <hi>Delights</hi> deny'd:</l>
+               <l>For, <hi>Glittering Riches,</hi> or the <hi>Sound</hi> of <hi>Fame,</hi>
+               </l>
+               <l>
+                  <hi>Accompliſh'd Parts,</hi> and an <hi>Illuſtrious Name,</hi>
+               </l>
+               <l>Are all but <hi>Outward Things,</hi> far from <hi>Content,</hi>
+               </l>
+               <l>Without the Hours in <hi>dear DEVOTION</hi> ſpent.</l>
+               <l>Give me but <hi>This,</hi> the <hi>True,</hi> and <hi>Perfect Way,</hi>
+               </l>
+               <l>Let <hi>Them</hi> diſperſe to whom, and where <hi>They</hi> may.</l>
+            </lg>
+            <lg>
+               <l>Could <hi>Fleſh</hi> with <hi>Purity</hi> Enliven'd be,</l>
+               <l>Made, like the <hi>Spirit,</hi> Vigorous and Free;</l>
+               <l>In theſe <hi>Sublime Delights</hi> I ſhould not care,</l>
+               <l>But for the <hi>Practice</hi> and <hi>Effects</hi> of <hi>PRAYER.</hi>
+               </l>
+               <l>O for a <hi>Strength</hi> of <hi>PRAYER</hi> to mount my <hi>Soul,</hi>
+               </l>
+               <l>In <hi>Raptures</hi> far above the <hi>Starry Pole:</hi>
+               </l>
+               <l>So <hi>Wing'd</hi> my <hi>ſoaring Flight</hi> ſhould never <hi>tire,</hi>
+               </l>
+               <l>Till I <hi>ſate down</hi> to <hi>Reſt</hi> in the <hi>Eternal Choir.</hi>
+               </l>
+            </lg>
+         </div>
+         <div n="2" type="meditation">
+            <head>MEDITATION II.</head>
+            <epigraph>
+               <q>Who went about Doing Good,
+<bibl>
+                     <hi>Acts 10.38.</hi>
+                  </bibl>
+               </q>
+            </epigraph>
+            <lg>
+               <l>WHen the <hi>great Lord</hi> of <hi>Life</hi> on <hi>earth</hi> was plac'd,</l>
+               <l>(Whom wicked men with Cauelty diſgrac'd</l>
+               <l>And with Rebellious Fury ſhed his Blood)</l>
+               <l>His Converſation was in <hi>Doing Good.</hi>
+               </l>
+               <pb n="24" facs="tcp:100456:14"/>
+               <l>Raiſe up, <hi>dear Lord,</hi> my Sin depreſſed State,</l>
+               <l>
+                  <hi>This Pattern</hi> of Thy <hi>Life</hi> to Imitate:</l>
+               <l>As for the <hi>Miracles</hi> Thy Power expreſt,</l>
+               <l>In <hi>Healing</hi> thoſe by Devils long poſſeſt;</l>
+               <l>Making the <hi>Blind</hi> to <hi>See,</hi> the <hi>Dumb</hi> to <hi>Talk,</hi>
+               </l>
+               <l>The <hi>Lepers, Clean;</hi> the <hi>Lame,</hi> with <hi>Vigour, Walk.</hi>
+               </l>
+               <l>I begg not to Do <hi>Theſe; theſe Works</hi> I own</l>
+               <l>To Thee peculiar, and Thy Saints alone.</l>
+               <l>Nor dare my <hi>humble Thoughts</hi> a <hi>Wiſh</hi> aſpire,</l>
+               <l>For theſe <hi>High Gifts</hi> to be at my <hi>Deſire;</hi>
+               </l>
+               <l>But I Initiated was to be</l>
+               <l>A <hi>True</hi> and <hi>Lively Follower</hi> of Thee:</l>
+               <l>And, as for all Mankind Thou ſhed'ſt thy <hi>Blood;</hi>
+               </l>
+               <l>So I was <hi>Born</hi> to <hi>Live</hi> in <hi>Doing Good.</hi>
+               </l>
+               <l>Nor muſt I ſay my <hi>Hinderances</hi> are</l>
+               <l>Beyond the Power of <hi>Religious Care:</hi>
+               </l>
+               <l>What tho' thou haſt not lent me <hi>Wealth</hi> to be</l>
+               <l>Thy <hi>Faithful Steward, Dole</hi> my <hi>Cbarity</hi>
+               </l>
+               <l>And with <hi>Extenſive Bounty,</hi> at my Door,</l>
+               <l>Act dayly <hi>Goodneſs</hi> on the <hi>Suffering Poor;</hi>
+               </l>
+               <l>Whilſt Thy <hi>High Pleaſure</hi> for my <hi>Lot</hi> ordains,</l>
+               <l>That <hi>Poverty</hi> my <hi>willing Hands</hi> reſtrains.</l>
+               <l>What tho' I do want <hi>Power</hi> to <hi>Help, Relieve,</hi>
+               </l>
+               <l>The <hi>Oppres'd</hi> who <hi>injur'd</hi> by <hi>Injuſtice grieve;</hi>
+               </l>
+               <pb n="25" facs="tcp:100456:14"/>
+               <l>And what tho' no proud <hi>Honour</hi> deck my <hi>Brow:</hi>
+               </l>
+               <l>A <hi>Station High</hi> to make me ſeen below,</l>
+               <l>So Seen that Leading of a <hi>Life Divine,</hi>
+               </l>
+               <l>Might ſtand a <hi>Pattern</hi> to make <hi>Virtue</hi> ſhine;</l>
+               <l>Tho' neither <hi>Wealth,</hi> nor <hi>Honour,</hi> nor <hi>Power</hi> are</l>
+               <l>Alotted or Permitted to my Share.</l>
+               <l>By all theſe <hi>Fetters</hi> and theſe <hi>Checks</hi> withſtood,</l>
+               <l>Am I deny'd the <hi>Means</hi> of <hi>Doing Good?</hi>
+               </l>
+               <l>Ah no! reſtrain my <hi>Thoughts</hi> from thinking this;</l>
+               <l>Since thou know'ſt <hi>best,</hi> what <hi>most Convenient</hi> is:</l>
+               <l>Make me a <hi>Chriſtian</hi> inwardly conform'd</l>
+               <l>To all theſe <hi>Sufferings</hi> which the <hi>Croſs</hi> adorn'd;</l>
+               <l>From this worlds <hi>Pleaſure</hi> and <hi>Affection</hi> hurl'd,</l>
+               <l>And Live by other <hi>Light,</hi> as in another world,</l>
+               <l>With different <hi>Principles, Proceedings</hi> new;</l>
+               <l>
+                  <hi>Vertue</hi> Embrace, <hi>Folly</hi> and <hi>Vice</hi> Eſchew:</l>
+               <l>My <hi>Precious Time</hi> in no vain <hi>Pleaſure</hi> waſt;</l>
+               <l>But have for <hi>Spiritual Things</hi> another Taſt,</l>
+               <l>Show my <hi>Obedience,</hi> in the <hi>higheſt Nature,</hi>
+               </l>
+               <l>And <hi>ſole Dependance</hi> on my <hi>Blest Creator;</hi>
+               </l>
+               <l>With <hi>true Submiſſion</hi> meekly take all <hi>Croſſes,</hi>
+               </l>
+               <l>And have a <hi>Reliſh</hi> for <hi>Contempts</hi> and <hi>Loſſes;</hi>
+               </l>
+               <l>Pleas'd only with a Life of <hi>Faith,</hi> and then</l>
+               <l>Slight all the <hi>Mockeries</hi> of <hi>Worldly Men,</hi>
+               </l>
+               <l>Who Judge not but by Sence; or, at the moſt,</l>
+               <l>By <hi>Human Reaſon,</hi> too much to their <hi>Cost.</hi>
+               </l>
+               <pb n="26" facs="tcp:100456:15"/>
+               <l>This <hi>Suffering Life</hi> in real <hi>Practice</hi> ſhown,</l>
+               <l>Could be to me <hi>Wealth, Honour,</hi> and a <hi>Crown:</hi>
+               </l>
+               <l>No more I need not ask to <hi>Bleſs my Days,</hi>
+               </l>
+               <l>Or caſt a <hi>Luſtre</hi> on my <hi>Gloomy Ways;</hi>
+               </l>
+               <l>To make a <hi>ſhining Light</hi> at once to be,</l>
+               <l>
+                  <hi>Example</hi> to others, and <hi>ſafe Guide</hi> to me.</l>
+               <l>
+                  <hi>Lord,</hi> let not this be only Barren <hi>Thought,</hi>
+               </l>
+               <l>But to Maturer Growth of <hi>Action</hi> brought.</l>
+            </lg>
+         </div>
+         <div n="3" type="meditation">
+            <head>MEDITATION II.</head>
+            <epigraph>
+               <q>Fret not thy ſelf, becauſe of the Ungodly; neither be thou envious againſt the Evil Doers,
+<bibl>
+                     <hi>Pſalm 37.1.</hi>
+                  </bibl>
+               </q>
+            </epigraph>
+            <lg>
+               <l>TO ſee the Wicked in a <hi>Proſperous State,</hi>
+               </l>
+               <l>Surrounded with the <hi>Happineſs</hi> of <hi>Fate;</hi>
+               </l>
+               <l>Their <hi>Humours pleas'd,</hi> their <hi>Undertakings Blest;</hi>
+               </l>
+               <l>Their <hi>Pains Succeſsful,</hi> and their <hi>Goods Increaſt;</hi>
+               </l>
+               <l>Their <hi>Pleaſures flowing,</hi> as their <hi>Vices</hi> are;</l>
+               <l>And <hi>Minds</hi> disburthen'd of all other <hi>Care:</hi>
+               </l>
+               <l>So far am I from <hi>Envying</hi> at this Sight;</l>
+               <l>Or <hi>Grudging,</hi> that I would not, if I might,</l>
+               <l>For all the <hi>Treaſures</hi> in Rich <hi>Ophir</hi>'s Soyl,</l>
+               <l>Even for their <hi>Happineſs</hi> exchange my <hi>Toyl:</hi>
+               </l>
+               <l>Their beſt <hi>Enjoyments</hi> Poor and Empty are;</l>
+               <l>And all their <hi>Pleaſure</hi> but a <hi>Flattering Snare;</hi>
+               </l>
+               <pb n="27" facs="tcp:100456:15"/>
+               <l>Their <hi>Prime Felicities</hi> in <hi>Folly's</hi> paſt,</l>
+               <l>And <hi>Joys</hi> which like declining <hi>Shadows</hi> waſt</l>
+               <l>Thus <hi>Swift</hi> in <hi>Vanity</hi> from <hi>Vertue</hi> ſtray;</l>
+               <l>And to <hi>Deſtruction</hi> gayly March away:</l>
+               <l>Then comes the <hi>Terror</hi> of approaching <hi>Death,</hi>
+               </l>
+               <l>They muſt <hi>Reſign</hi> their diſcontinuing <hi>Breath;</hi>
+               </l>
+               <l>Tortur'd to <hi>Think</hi> upon a Mournful <hi>Knell,</hi>
+               </l>
+               <l>And <hi>Rack'd</hi> with <hi>Horrour</hi> at the <hi>Thoughts</hi> of <hi>Hell:</hi>
+               </l>
+            </lg>
+         </div>
+         <div n="4" type="meditation">
+            <head>MEDITATION IV.</head>
+            <epigraph>
+               <q>Thou art about my Path, and about my Bed, and ſpy<g ref="char:EOLhyphen"/>eſt out all my Ways, <hi>&amp;c.</hi>
+                  <bibl>
+                     <hi>Pſalm, 139. ver. 2.3</hi>
+                  </bibl>
+               </q>
+            </epigraph>
+            <lg>
+               <l>THere is no <hi>Path</hi> of <hi>Life,</hi> in which I go:</l>
+               <l>But what thou <hi>view'st,</hi> &amp; every Step doſt <hi>know</hi>
+               </l>
+               <l>If in the <hi>Way</hi> of <hi>Vertue</hi> I go on,</l>
+               <l>Immediately its, by Thy <hi>Wiſdom, known.</hi>
+               </l>
+               <l>Nor doſt thou <hi>Unrewarded</hi> let me paſs,</l>
+               <l>But <hi>Crown'st</hi> with <hi>Benefits</hi> my Running Glaſs</l>
+               <l>And, if deluded from this <hi>happy Way</hi>
+               </l>
+               <l>Of <hi>Virtue,</hi> I erronious go aſtray</l>
+               <l>Into the privateſt cloſeſt <hi>Path</hi> of <hi>Sin,</hi>
+               </l>
+               <l>I preſently perceive Thee <hi>Looking</hi> in;</l>
+               <l>And with thy <hi>Glance</hi> doſt ſtrike me with a <hi>Terror</hi>
+               </l>
+               <l>Of <hi>future Judgements</hi> for my <hi>Sinful Error:</hi>
+               </l>
+               <pb n="28" facs="tcp:100456:16"/>
+               <l>In vain do I endeavour to conceal,</l>
+               <l>What thy <hi>All-ſeeing Eye</hi> muſt needs reveal:</l>
+               <l>My <hi>Heart</hi> has no retired ſecret <hi>Thought,</hi>
+               </l>
+               <l>But openly is to thy <hi>Knowledge</hi> brought:</l>
+               <l>Nor dos a <hi>Word</hi> through my whole Life, tho nere</l>
+               <l>So ſoftly <hi>Whiſper'd,</hi> ſcape thy <hi>Righteous Ears.</hi>
+               </l>
+               <l>O let me, with <hi>Humility,</hi> admire</l>
+               <l>This great <hi>Omniſcience,</hi> and no more deſire</l>
+               <l>The <hi>dark Perverſeneſs</hi> of a <hi>Sinful Courſe;</hi>
+               </l>
+               <l>Since thou diſcovereſt <hi>All;</hi> and, what is worſe,</l>
+               <l>Condemn'ſt it to the <hi>Miſerable State</hi>
+               </l>
+               <l>Of <hi>Hells</hi> great <hi>Torment,</hi> and thy endleſs <hi>Hate.</hi>
+               </l>
+            </lg>
+         </div>
+         <div n="5" type="meditation">
+            <head>MEDITATION V.</head>
+            <epigraph>
+               <q>If ye love me, keep my Commandments,
+<bibl>
+                     <hi>Joh. 14.15.</hi>
+                  </bibl>
+               </q>
+            </epigraph>
+            <lg>
+               <l>MUſt there an IF be made for <hi>Loving</hi> thee,</l>
+               <l>In whom the <hi>Mirror</hi> of <hi>Perfections</hi> be;</l>
+               <l>Fairer than <hi>Light</hi> thy Charming Beauties ſhine,</l>
+               <l>No Angel's <hi>Form</hi> was ever ſo <hi>Divine:</hi>
+               </l>
+               <l>Never did Prince of ſuch an Offspring come,</l>
+               <l>Nor Lover like thee ſuffer <hi>Martyrdom:</hi>
+               </l>
+               <l>An Angel's Quill I want to write the Story</l>
+               <l>Of thy great <hi>Paſſion, High Deſcent,</hi> and <hi>Glory:</hi>
+               </l>
+               <l>But ſtopp'd with Wonder, now I would ſay moſt,</l>
+               <l>My Raviſh'd Soul is in a Rapture loſt:</l>
+               <pb n="29" facs="tcp:100456:16"/>
+               <l>Who ſhould I Love but thee, where can I find</l>
+               <l>An Object like thee to inflame my Mind.</l>
+               <l>Should any Fellow-creature ask me this,</l>
+               <l>
+                  <hi>Love you the Mighty Lord of Life and Bliſs?</hi>
+               </l>
+               <l>I ſhould injuriouſly the Queſtion take,</l>
+               <l>In ſuch a caſe, ſhould they a ſcruple make,</l>
+               <l>And, in a vehement Heat, be apt to cry</l>
+               <l>
+                  <hi>Judge of my Love, by what I now reply,</hi>
+               </l>
+               <l>He is the only Regent of my Heart,</l>
+               <l>I ſcorn the Rival that ſhould claim a part:</l>
+               <l>Confin'd in a Lone Deſert, I could be,</l>
+               <l>Having an Intercourſe 'twixt him and me:</l>
+               <l>The want of Food I could contented bear,</l>
+               <l>So I might have but my Beloved near:</l>
+               <l>I'de wander all my Life through Sun and Wind,</l>
+               <l>In Tears, if Tears alone, my Dear could find;</l>
+               <l>Compar'd to him, my Friends, Relations, Birth,</l>
+               <l>Each, all I hate, all that is dear on Earth:</l>
+               <l>My Blood I'll ſpend, and Life will Sacrifice</l>
+               <l>For his dear <hi>Honour,</hi> which I ſo much prize.</l>
+               <l>Theſe great Pretenſions would be apt to skip</l>
+               <l>From my moſt paſſionate unwary Lip;</l>
+               <l>But thou haſt try'd me at an eaſier Hand,</l>
+               <l>By bidding of me keep thy Bleſs'd Command;</l>
+               <l>In which no rigid Task thou doſt impoſe,</l>
+               <l>Or leaſt true Satisfaction bid me loſe,</l>
+               <pb n="30" facs="tcp:100456:17"/>
+               <l>
+                  <hi>Love God, and Love my Neighbour, Watch and Pray</hi>
+               </l>
+               <l>Oh! Can I wiſh in theſe to diſobey?</l>
+               <l>What can be eaſier, ſweeter, leſs ſevere;</l>
+               <l>Or, to my Mind more rational appear?</l>
+               <l>Pleaſing while I perform, and in th' event,</l>
+               <l>Of Happineſs the certain Conſequent.</l>
+               <l>
+                  <hi>Oh let me ſhew I theſe Commands approve,</hi>
+               </l>
+               <l>
+                  <hi>And by my keeping of them dearly</hi> Love.</l>
+            </lg>
+         </div>
+         <div n="6" type="meditation">
+            <head>MEDITATION VI.</head>
+            <epigraph>
+               <q>Set your Affections on things above,
+<bibl>
+                     <hi>Çol. 3.1.</hi>
+                  </bibl>
+               </q>
+            </epigraph>
+            <lg>
+               <l>ALas! Dull <hi>Earth,</hi> where can I place on thee</l>
+               <l>Affection and one moment happy be;</l>
+               <l>I've view'd thee through, I've minded all events</l>
+               <l>Of VVorldly <hi>Groſſes,</hi> and its <hi>Blandiſhments;</hi>
+               </l>
+               <l>And as the <hi>firſt</hi> by few can be deſired,</l>
+               <l>The <hi>laſt</hi> as little is to be admired:</l>
+               <l>One is a <hi>Thorny Trouble,</hi> ſtill perplexing,</l>
+               <l>T'other an <hi>Empty Show,</hi> and therefore vexing:</l>
+               <l>Experimenting <hi>Both,</hi> I too well try'd,</l>
+               <l>
+                  <hi>Groſſes</hi> vext, and <hi>Pleaſures</hi> never ſatisfied:</l>
+               <l>This made my <hi>Thoughts</hi> damp, liveleſs, ſad &amp; ſlow,</l>
+               <l>Each Minute tireſome while they ſtaid below;</l>
+               <l>And wearyed much into Impatience grew,</l>
+               <l>Till they left <hi>Earth,</hi> and up with vigour flew,</l>
+               <pb n="31" facs="tcp:100456:17"/>
+               <l>Then ſoaring in all true Delights above,</l>
+               <l>I quickly found where I might fix my Love;</l>
+               <l>Perceiving Bliſs which never met controul,</l>
+               <l>And Satisfaction Solid as the Soul;</l>
+               <l>A Joy ſo great, untrifling, and ſo bleſt,</l>
+               <l>If I might in the Meditation reſt,</l>
+               <l>I nere ſhould Love a <hi>Thought</hi> of <hi>Earth</hi> again,</l>
+               <l>More than a <hi>Fit</hi> of <hi>Sickneſs</hi> or of <hi>Pain:</hi>
+               </l>
+               <l>For nothing leſs I contemplate and See,</l>
+               <l>Than the vaſt Joys of <hi>large Eternity:</hi>
+               </l>
+               <l>Contenting Viſion! how may I poſſeſs</l>
+               <l>For ever, ever this <hi>dear Happineſs,</hi>
+               </l>
+               <l>There's no way to it, but the <hi>Gates</hi> of <hi>Death,</hi>
+               </l>
+               <l>The dolorous Pangs of an extinguiſh'd <hi>Breath.</hi>
+               </l>
+               <l>But why ſhould this ſo terrible appear;</l>
+               <l>Or, either my <hi>Averſion</hi> move or <hi>Fear,</hi>
+               </l>
+               <l>I know it's this muſt that Advantage bring,</l>
+               <l>
+                  <hi>O</hi> Frightful Ghaſtly <hi>Death where is thy Sting?</hi>
+               </l>
+               <l>
+                  <hi>O</hi> Conquering <hi>Grave where is thy Victory,</hi>
+               </l>
+               <l>When even the vanquiſh'd <hi>tryumph,</hi> &amp; through <hi>thee,</hi>
+               </l>
+               <l>Lies our <hi>Aſcent</hi> to <hi>vaſt Eternity.</hi>
+               </l>
+            </lg>
+         </div>
+         <div n="7" type="meditation">
+            <pb n="32" facs="tcp:100456:18"/>
+            <head>MEDITATION VII.</head>
+            <head type="sub">On <hi>Iſaiah 5. ver. 1.2.</hi>
+            </head>
+            <lg>
+               <l>HO every One almoſt to Drought accurſt,</l>
+               <l>Who Famiſh with the cruelty of <hi>Thirſt,</hi>
+               </l>
+               <l>Come, drink ye <hi>Waters</hi> freely, take your fill,</l>
+               <l>Refreſh your ſelves with Plenty, drink at will:</l>
+               <l>Here's <hi>Milk</hi> that gives a Nouriſhment divine,</l>
+               <l>Not only Heart, but here's Soul cheering <hi>Wine.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>A Prophet calls, and gives you this Advice,</l>
+               <l>'Tis Purchaſed without <hi>Mony,</hi> without <hi>Price;</hi>
+               </l>
+               <l>Why ſpend you <hi>Mony</hi> for what is not <hi>Bread,</hi>
+               </l>
+               <l>When here you may with <hi>Delicates</hi> be fed.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <head>
+               <hi>On</hi> John Baptiſt <hi>being Painted in the Wilderneſs with a Lamb by him, and Angels deſcending to him.</hi>
+            </head>
+            <lg>
+               <l>THE Sun's my <hi>Fire,</hi> as well as <hi>Light,</hi>
+               </l>
+               <l>The Moon and Stars my <hi>Lamps</hi> at Night;</l>
+               <l>Springs are my Cellars of choice <hi>VVine,</hi>
+               </l>
+               <l>A Deſart's Parlour where I dine.</l>
+               <pb n="33" facs="tcp:100456:18"/>
+               <l>The Rocks and Woods my <hi>Dainties</hi> give,</l>
+               <l>On <hi>Locuſts</hi> I and <hi>Hony</hi> live;</l>
+               <l>This <hi>Lambs</hi> my Gueſt when ere I eat,</l>
+               <l>Who equal with me takes his ſeat;</l>
+               <l>My <hi>Garments</hi> of the Flocks I take,</l>
+               <l>And on the Earth my <hi>Bed</hi> I make:</l>
+               <l>
+                  <hi>Voluptious Greatneſs</hi> I think baſe,</l>
+               <l>My Company's of <hi>Heavenly Race.</hi>
+               </l>
+               <l>O happy Life! from nauſeous <hi>Pleaſures</hi> free,</l>
+               <l>And from diſtracting <hi>Cares,</hi> bleſt ſhould I be</l>
+               <l>Were I t' enjoy <hi>Mine</hi> in a ſtate like <hi>Thee.</hi>
+               </l>
+            </lg>
+         </div>
+         <div type="poem">
+            <head>
+               <hi>On</hi> Herodias <hi>Daughter being Painted with the Head of</hi> John Baptiſt <hi>in a Charger, giving it to her Mother.</hi>
+            </head>
+            <lg>
+               <l>SEE, deareſt Mother, what my <hi>Charms</hi> has caught,</l>
+               <l>And to your hand a welcome <hi>Preſent</hi> brought,</l>
+               <l>The powerful <hi>Tongue</hi> that, at a <hi>Breath</hi> before,</l>
+               <l>Shook our whole <hi>Grandeur,</hi> now ſhall <hi>ſpeak</hi> no more;</l>
+               <l>Nor ſtern, nor threatning does this Brow appear,</l>
+               <l>Whoſe <hi>Look</hi> was wont to caſt a Dread and Fear;</l>
+               <l>As my Adorer, Languiſhing he lies,</l>
+               <l>Imploring Favour from my killing Eyes;</l>
+               <l>Vanquiſh'd by me alone, and quite ſuppreſt,</l>
+               <pb n="34" facs="tcp:100456:19"/>
+               <l>Now undiſturb'd does in my Arms take Reſt.</l>
+               <l>Augment my Joys with yours, which elſe will fade,</l>
+               <l>Whilſt here the <hi>Hermit</hi> I've a <hi>Courtier</hi> made.</l>
+            </lg>
+            <lg>
+               <l>Bleſt <hi>Martyr,</hi> is it thus; the Impious ſcoff,</l>
+               <l>The Tyrant at a word thy Life cutts off:</l>
+               <l>Hard caſe, ſo great a Prophet living ſtands</l>
+               <l>A Sacrifice to <hi>Wanton Feet</hi> and <hi>Bloody Hands:</hi>
+               </l>
+               <l>No matter, let them play their Rigorous Part,</l>
+               <l>Thou hadſt the <hi>Blow,</hi> but they muſt feel the <hi>Smart;</hi>
+               </l>
+               <l>They have ſent thee from a <hi>World wretched</hi> &amp; <hi>friend<g ref="char:EOLhyphen"/>leſs,</hi>
+               </l>
+               <l>To dwell with <hi>Joys</hi> unſpeakable &amp; endleſs</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <head>
+               <hi>To a Young Lady that deſired a Verſe of my being</hi> Servant <hi>one Day, and</hi> Miſtreſs <hi>another.</hi>
+            </head>
+            <lg>
+               <l>MORE than a King's my <hi>Word</hi> dos rule to day,</l>
+               <l>His Subjects <hi>His,</hi> my Betters <hi>Mine</hi> obey;</l>
+               <l>
+                  <hi>Quality, Fortune, Beauty, Virtue, Wit,</hi>
+               </l>
+               <l>Do <hi>Govern</hi> others, but to me <hi>Submit:</hi>
+               </l>
+               <l>
+                  <note n="*" place="margin">I teach Ladies Writing and Accompts one day, and keep Shop-Books the other day, in which Buſineſs I am a hired Servant.</note> To morrow from this <hi>Dignity</hi> I fall,</l>
+               <l>And am a <hi>Servant</hi> at each <hi>Beck</hi> and <hi>Call:</hi>
+               </l>
+               <l>Next Day I'me <hi>free</hi> in <hi>Liberty</hi> and <hi>Power,</hi>
+               </l>
+               <l>And, as before, a <hi>Miſtreſs</hi> every <hi>Hour.</hi>
+               </l>
+            </lg>
+            <pb n="35" facs="tcp:100456:19"/>
+            <lg>
+               <l>
+                  <hi>Changeable</hi> is my <hi>State,</hi> and yet not ſtrange,</l>
+               <l>When <hi>Day</hi> to <hi>Night,</hi> and <hi>Light</hi> to <hi>Darkneſs</hi> change:</l>
+               <l>Yet <hi>Fate</hi> I cannot blame, but juſtly own,</l>
+               <l>She, in this <hi>Difference, Evenneſs</hi> hath ſhown;</l>
+               <l>For when I'me <hi>Miſtreſs,</hi> none I can <hi>Command,</hi>
+               </l>
+               <l>When <hi>Servant, curb'd</hi> by no <hi>Imperious Hand:</hi>
+               </l>
+               <l>This is a <hi>Riddle,</hi> yet nere wonder why,</l>
+               <l>When all the <hi>World</hi>'s a <hi>Riddle,</hi> why not I?</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <head>On REP<g ref="char:V">Ʋ</g>TATION.</head>
+            <lg>
+               <l>BRight <hi>Object,</hi> whom each Mortal courts to have,</l>
+               <l>From the great <hi>Caeſar,</hi> to the humble Slave;</l>
+               <l>From <hi>Vertues</hi> Sons to <hi>Vices</hi> blacker Brood,</l>
+               <l>From <hi>Hypocrites</hi> to thoſe ſincerely <hi>Good,</hi>
+               </l>
+               <l>Who pays not <hi>Vows</hi> to thy moſt glorious <hi>Shrine,</hi>
+               </l>
+               <l>Who does not <hi>Idolize</hi> that <hi>Name</hi> of thine;</l>
+               <l>The <hi>Wiſe</hi> and <hi>Pious</hi> commonly declare,</l>
+               <l>That much before their Life they thee prefer:</l>
+               <l>The <hi>Proſtigate,</hi> who takes a ſenſleſs <hi>Pride</hi>
+               </l>
+               <l>In being baſe, his <hi>Skill</hi> has often try'd,</l>
+               <l>In thy bleſt <hi>Shade</hi> his <hi>Ulcerous Name</hi> to hide.</l>
+               <l>Since <hi>thou</hi> art ſo ador'd, what can I do,</l>
+               <l>But own I am <hi>thy</hi> great <hi>Admirer</hi> too?</l>
+               <pb n="36" facs="tcp:100456:20"/>
+               <l>Yet, <hi>fair One,</hi> give me leave before my <hi>Love</hi>
+               </l>
+               <l>With too much <hi>Paſſion</hi> ſixes, firſt to prove,</l>
+               <l>If thou haſt <hi>Bleſſings true,</hi> as thoſe above.</l>
+            </lg>
+            <lg>
+               <l>I fear <hi>thou</hi> art of a <hi>mutable Degree,</hi>
+               </l>
+               <l>Weak and defenceleſs, quickly apt to flee,</l>
+               <l>Should I place all my <hi>Joys</hi> in <hi>thee</hi> alone,</l>
+               <l>Keep all my Actions <hi>fair,</hi> that not in one</l>
+               <l>A <hi>Blemiſh</hi> could be found; yet this would be</l>
+               <l>A ſmall Aſſurance of poſſeſſing <hi>thee,</hi>
+               </l>
+               <l>For <hi>Cenſure</hi> and <hi>Opinion</hi> have their ſwing,</l>
+               <l>
+                  <hi>Ill Tongues</hi> and <hi>bad Belief</hi> out-reign a King:</l>
+               <l>All as they <hi>ſpeak</hi> or <hi>think,</hi> their <hi>Fame</hi> or <hi>Faith,</hi>
+               </l>
+               <l>
+                  <hi>Good</hi> or <hi>bad Names</hi> are ſtill but <hi>Popular Breath:</hi>
+               </l>
+               <l>Excuſe me therefore, ſince all this is true,</l>
+               <l>If I refuſe to ſet my <hi>Heart</hi> on <hi>you.</hi>
+               </l>
+            </lg>
+         </div>
+         <div type="poem">
+            <head>SEC<g ref="char:V">Ʋ</g>RITY.</head>
+            <lg>
+               <l>'TIs not in Princes or Superiors <hi>Smiles,</hi>
+               </l>
+               <l>Profound <hi>Contrivance</hi> or ingenious <hi>Wiles,</hi>
+               </l>
+               <l>In boundleſs <hi>Riches</hi> or the ſhining <hi>Flame</hi>
+               </l>
+               <l>Of a dear ſweet and odoriferous <hi>Name,</hi>
+               </l>
+               <l>'Tis not by theſe rare <hi>Pleaſures</hi> we can be</l>
+               <l>Plac'd in the <hi>Orb</hi> of <hi>fixt Security.</hi>
+               </l>
+               <pb n="37" facs="tcp:100456:20"/>
+               <l>
+                  <hi>Tranſient</hi> and <hi>vain</hi> theſe tempting <hi>Charms</hi> have prov'd,</l>
+               <l>To thoſe who <hi>ſought</hi> them moſt, and moſt have <hi>lov'd,</hi>
+               </l>
+               <l>And the true Bleſſing of a <hi>Life ſecure</hi>
+               </l>
+               <l>Is never found but in a <hi>Conſcience pure,</hi>
+               </l>
+               <l>Whoſe choicer <hi>Wiſdom</hi> with improving <hi>Skill,</hi>
+               </l>
+               <l>Strives <hi>Strictly</hi> to Obey her Maker's Will;</l>
+               <l>Regarding That, can Calmly o're and o're</l>
+               <l>Take <hi>Frowns</hi> from the ſame <hi>Brow</hi> that <hi>ſmil'd</hi> before;</l>
+               <l>Think <hi>Riches</hi> are but tranſitory things</l>
+               <l>Which take uncertain <hi>Flights</hi> with <hi>ſpreading Wings;</hi>
+               </l>
+               <l>And, with an <hi>Intellectual View,</hi> deſpiſe</l>
+               <l>The <hi>Bubbling Show</hi> of <hi>Worldly Policies;</hi>
+               </l>
+               <l>See a <hi>good Name</hi> lye in the <hi>ſtabbing Smart,</hi>
+               </l>
+               <l>Without the Terrours of a <hi>troubled Heart;</hi>
+               </l>
+               <l>And with all <hi>Earthly Treaſure</hi> let that go,</l>
+               <l>Slight as the <hi>Dust,</hi> if <hi>GOD</hi> will have it ſo,</l>
+               <l>For 'tis his <hi>inward Joy</hi> which crowns the Mind,</l>
+               <l>More than in all theſe <hi>outward things</hi> we find:</l>
+               <l>Poſſeſt of which we are ſecurely bleſt,</l>
+               <l>Whatever does become of all the reſt.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <pb n="38" facs="tcp:100456:21"/>
+            <head>
+               <hi>To Imploy</hi> Fear <hi>and</hi> Hate.</head>
+            <lg>
+               <l>ASſiſt, great <hi>GOD,</hi> this <hi>Work</hi> which I begin,</l>
+               <l>Turn my frail Paſſions, <hi>Fear</hi> and <hi>Hate,</hi> at Sin;</l>
+               <l>Let me not know what 'tis to uſe my <hi>Fear,</hi>
+               </l>
+               <l>Except the danger of a Sin appear;</l>
+               <l>Then timorous, ſhivering, flying, let me get</l>
+               <l>Into the Guards of <hi>Vertue's</hi> ſafe retreat,</l>
+               <l>Immur'd within, whoſe Sacred Bounds I'de be</l>
+               <l>
+                  <hi>Fearful</hi> to <hi>Think,</hi> to <hi>Speak,</hi> to <hi>Hear,</hi> or <hi>See,</hi>
+               </l>
+               <l>Ought that relates to <hi>this grand Enemy;</hi>
+               </l>
+               <l>No <hi>Parly</hi> would I have, no ſoft <hi>Debate,</hi>
+               </l>
+               <l>No <hi>Paſſion,</hi> but my never-ending <hi>Hate,</hi>
+               </l>
+               <l>
+                  <hi>Hate!</hi> whoſe Averſion all <hi>Revenge</hi> excell'd,</l>
+               <l>By no Example yet e're paralell'd,</l>
+               <l>Free and perpetual on this <hi>Object</hi> ſpent,</l>
+               <l>Without an inclination to relent,</l>
+               <l>Deſiſt or ceaſe; no, not with Life to end,</l>
+               <l>Nor Time nor Heavens poſſeſſion: But aſcend</l>
+               <l>And Reign within that <hi>glorious Orb,</hi> while I</l>
+               <l>Retain <hi>it</hi> there to <hi>all Eternity:</hi>
+               </l>
+               <l>Thus, when Sin only ſhall the Object prove</l>
+               <l>Of my <hi>fixt Hate,</hi> 'tis <hi>GOD</hi> has all my <hi>Love.</hi>
+               </l>
+            </lg>
+         </div>
+         <div type="poem">
+            <pb n="39" facs="tcp:100456:21"/>
+            <head>On S<g ref="char:V">Ʋ</g>NDAY.</head>
+            <lg>
+               <l>MOſt <hi>bliſsful Day,</hi> 'tis for your kind return,</l>
+               <l>My higheſt Wiſhes do in Fervor burn;</l>
+               <l>
+                  <hi>You</hi> bring ſuch <hi>heavenly Sweetneſs</hi> with your <hi>Rest,</hi>
+               </l>
+               <l>As if in <hi>you</hi> alone all Time were <hi>blest;</hi>
+               </l>
+               <l>The <hi>other</hi> Days with loaded <hi>Care</hi> abound,</l>
+               <l>
+                  <hi>Earth</hi>'s <hi>Service</hi> drives the heavy Circle <hi>round,</hi>
+               </l>
+               <l>And dully fix their <hi>Aſpect</hi> on the <hi>Ground:</hi>
+               </l>
+               <l>
+                  <hi>Your</hi> heavenly <hi>Looks</hi> reach that <hi>amazing Throne,</hi>
+               </l>
+               <l>Which <hi>yours</hi> and <hi>my</hi> great <hi>Maker</hi>'s ſeated on;</l>
+               <l>Never, but <hi>upward, your</hi> aſpiring Head</l>
+               <l>Tends with a <hi>Look:</hi> And ſo my Soul <hi>you</hi> lead</l>
+               <l>In ſuch <hi>delicious Joys,</hi> that, when <hi>you</hi> are gone,</l>
+               <l>I ſtill anticipate and reckon on,</l>
+               <l>How long before <hi>you</hi> come again; how near</l>
+               <l>The Times expir'd; when, when will <hi>you</hi> appear?</l>
+               <l>At <hi>your</hi> firſt <hi>dawn</hi> my Heart dilated lies,</l>
+               <l>In the content of <hi>Divine Extaſies,</hi>
+               </l>
+               <l>Exempt from <hi>Sorrow,</hi> only that I ſee</l>
+               <l>Thoſe <hi>precious Moments</hi> do too ſwiftly flee.</l>
+               <l>But after this vaſt <hi>Joy,</hi> when Night comes on,</l>
+               <l>And I reflect how near the <hi>Sabbath</hi>'s gone,</l>
+               <pb n="40" facs="tcp:100456:22"/>
+               <l>For all the <hi>Pleaſure</hi> was ſo great and true,</l>
+               <l>'Tis with a bitter Sigh I part from you:</l>
+               <l>Yet though, <hi>great Day</hi> of <hi>Bleſſings,</hi> all <hi>ſublime,</hi>
+               </l>
+               <l>
+                  <hi>You</hi> fly, like others, on the <hi>Wings</hi> of <hi>Time,</hi>
+               </l>
+               <l>No ſpecial <hi>Favour</hi> of a Minute's ſtay</l>
+               <l>Can be prolong'd more than another <hi>Day;</hi>
+               </l>
+               <l>But ſwift, as <hi>Hurry,</hi> are <hi>your Moments</hi> ſpun,</l>
+               <l>And of the <hi>common Sand your Glaſs</hi> does run;</l>
+               <l>Your <hi>Property</hi> will change, when I ſhall have</l>
+               <l>Paſs'd one dark Walk to the other ſide o'th Grave,</l>
+               <l>Then to an everlaſting <hi>Sabbath</hi> I</l>
+               <l>Shall be receiv'd with <hi>endleſs Extaſie.</hi>
+               </l>
+            </lg>
+         </div>
+         <div type="poem">
+            <head>
+               <hi>On</hi> Directions <hi>to know how to</hi> Act For<g ref="char:EOLhyphen"/>tunately.</head>
+            <lg>
+               <l>FAin would I know each day <hi>what</hi> I ſhould <hi>chuſe,</hi>
+               </l>
+               <l>What <hi>Undertaking</hi> I had beſt <hi>refuſe;</hi>
+               </l>
+               <l>I'de have an <hi>Art,</hi> that all that I forſook,</l>
+               <l>Should make all <hi>proſperous</hi> which I undertook;</l>
+               <l>I'de <hi>miſs</hi> to <hi>act</hi> thoſe <hi>Days</hi> of ill <hi>Events,</hi>
+               </l>
+               <l>And meet with none but <hi>Fortunes</hi> ſweet <hi>Centents;</hi>
+               </l>
+               <l>I'de know the <hi>Minute</hi> critical and rare</l>
+               <l>Should fill my <hi>Wiſhes</hi> all, and crown my <hi>Care:</hi>
+               </l>
+               <pb n="41" facs="tcp:100456:22"/>
+               <l>Some kind <hi>Thought</hi> tell me how I may <hi>poſſeſs</hi>
+               </l>
+               <l>This mighty great deſir'd <hi>Happineſs;</hi>
+               </l>
+               <l>Shall I conſult the <hi>Stars,</hi> and read the <hi>Sky,</hi>
+               </l>
+               <l>Grow perfect Miſtreſs of <hi>Aſtrology,</hi>
+               </l>
+               <l>Know all the <hi>Planets</hi> and their <hi>influence,</hi>
+               </l>
+               <l>When 'tis they <hi>good</hi> and when they <hi>ill diſpenſe,</hi>
+               </l>
+               <l>Thus <hi>guide</hi> my <hi>Life,</hi> thus <hi>ſteer</hi> my <hi>Courſe,</hi> and be</l>
+               <l>Inform'd <hi>before-hand</hi> what the <hi>Fates</hi> decree;</l>
+               <l>To <hi>guide</hi> my <hi>Life</hi> with this, Lord, did I ſay?</l>
+               <l>Alas! I know it is a fooliſh Way:</l>
+               <l>Thy <hi>Word</hi> inſtructs me, that I can nor muſt</l>
+               <l>Repoſe in none but <hi>thee</hi> alone my <hi>Truſt.</hi>
+               </l>
+               <l>Why ſhould I like a <hi>Heathen</hi> then rely</l>
+               <l>Upon the <hi>Signs</hi> and <hi>Aſpects</hi> of the <hi>Sky,</hi>
+               </l>
+               <l>Upon a <hi>Babling Fortune-teller's Skill,</hi>
+               </l>
+               <l>Or <hi>Wonders</hi> from the <hi>Wiſe Star-gazer</hi>'s <hi>Quill?</hi>
+               </l>
+               <l>I <hi>fly,</hi> but <hi>envy</hi> not their <hi>best Perfection,</hi>
+               </l>
+               <l>And covet only Thy <hi>Divine Direction;</hi>
+               </l>
+               <l>If 'tis my <hi>Fate</hi> I muſt ſuſtain a <hi>Loſs,</hi>
+               </l>
+               <l>Give me <hi>Submiſſion</hi> to receive the <hi>Groſs,</hi>
+               </l>
+               <l>And, like a <hi>Chriſtian,</hi> bear it, and adore</l>
+               <l>Him, who, for me, the <hi>bloody Groſs</hi> has bore.</l>
+               <l>If <hi>Diſappointments</hi> muſt my Hours attend,</l>
+               <l>Raiſe but my Thoughts to Thee, they'r at an end.</l>
+               <l>What ſhall I value here can <hi>hit</hi> or <hi>miſs,</hi>
+               </l>
+               <l>When <hi>Heaven</hi> alone contains my <hi>boundleſs Bliſs?</hi>
+               </l>
+               <pb n="42" facs="tcp:100456:23"/>
+               <l>If a <hi>ſhort Life</hi> muſt make my <hi>frail Days</hi> few,</l>
+               <l>An <hi>endleſs Being</hi> ſooner will enſue;</l>
+               <l>And <hi>all</hi> I care for here, is only what</l>
+               <l>May make me <hi>fit</hi> and <hi>well-prepar'd</hi> for that.</l>
+               <l>If a <hi>long Life</hi> is for my <hi>Lot</hi> aſſign'd,</l>
+               <l>In which the <hi>Smiles</hi> of <hi>Fortune</hi> I ſhall find,</l>
+               <l>The Benefit of <hi>both</hi> can only be</l>
+               <l>In <hi>Dedicating</hi> me and mine to Thee:</l>
+               <l>O teach me ſo to manage all my <hi>Days,</hi>
+               </l>
+               <l>That unto Thee I may direct my <hi>Ways,</hi>
+               </l>
+               <l>Thou whoſe <hi>Almighty Goodneſs</hi> brings to paſs</l>
+               <l>All <hi>Happineſs</hi> that ever <hi>is</hi> or <hi>was.</hi>
+               </l>
+            </lg>
+         </div>
+         <div type="poem">
+            <head>A THO<g ref="char:V">Ʋ</g>GHT.</head>
+            <lg>
+               <l>TO ſome <hi>remote</hi> and <hi>melancholly Wood,</hi>
+               </l>
+               <l>Where <hi>Trees</hi> in growth and nearneſs do com<g ref="char:EOLhyphen"/>bine,</l>
+               <l>The <hi>Sun</hi> in all his <hi>Forces</hi> never could</l>
+               <l>Peep through the <hi>Branches</hi> they ſo cloſely twine.</l>
+            </lg>
+            <lg>
+               <l>In this obſcure <hi>Shade</hi> fain would I get,</l>
+               <l>From all the <hi>World,</hi> my <hi>Friends</hi> as well as <hi>Cares,</hi>
+               </l>
+               <l>While ſome <hi>ſweet Viſion</hi> bleſt the kind <hi>retreat,</hi>
+               </l>
+               <l>And pitying look'd upon my <hi>Sighs</hi> and <hi>Tears.</hi>
+               </l>
+            </lg>
+            <pb n="43" facs="tcp:100456:23"/>
+            <lg>
+               <l>Againſt a <hi>Tree</hi> my <hi>weary Head</hi> ſhould ly,</l>
+               <l>And on my <hi>panting Heart</hi> be plac'd my Hand,</l>
+               <l>My <hi>Sighs,</hi> devoutly piercing, cut the <hi>Sky,</hi>
+               </l>
+               <l>While of my <hi>LORD</hi> I humbly <hi>this</hi> demand.</l>
+            </lg>
+            <lg>
+               <l>O be thou pleas'd to let me know, I am</l>
+               <l>In thy <hi>dear Favour,</hi> 
+                  <gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ough with <hi>Grief</hi> oppreſt,</l>
+               <l>And that <hi>vile Sin</hi> ſhall ne're expoſe to ſhame,</l>
+               <l>Or ſtop me in the Paths to Heavenly Reſt:</l>
+            </lg>
+            <lg>
+               <l>And that I ſhall the World in <hi>Juſtice</hi> leave,</l>
+               <l>Rendring to every one their <hi>Righteous</hi> due,</l>
+               <l>When I am gone my <hi>Memory</hi> may receive</l>
+               <l>The bleſſed Character of <hi>Just</hi> and <hi>True.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>And that the <hi>Time</hi> ſhall joyfully expire,</l>
+               <l>Wherein I am to breathe and ſpeak my laſt:</l>
+               <l>And being poſſeſs'd of this, which I deſire,</l>
+               <l>Call'd up to <hi>Heaven,</hi> and leave the <hi>Earth</hi> in haſt.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <pb n="44" facs="tcp:100456:24"/>
+            <head>The DISCO<g ref="char:V">Ʋ</g>RAGEMENT.</head>
+            <lg>
+               <l>IF <hi>Fate unproſperous</hi> on our <hi>Gares</hi> attend,</l>
+               <l>We ſtriving <hi>hope,</hi> and nothing ſtill does mend;</l>
+               <l>This very thing, <hi>Affliction</hi> magnifies,</l>
+               <l>By pouring in a <hi>ſtore</hi> of Enemies;</l>
+               <l>For not the <hi>Bad</hi> alone, but <hi>Vertuous</hi> too,</l>
+               <l>Give frequent <hi>Wounds,</hi> to augment our greater <hi>Woe,</hi>
+               </l>
+               <l>If they themſelves have not ſucceſsleſs lain,</l>
+               <l>By <hi>Fortune's Gift</hi> or their <hi>Induſtrious Pain.</hi>
+               </l>
+               <l>
+                  <hi>Blind</hi> or <hi>Forgetful,</hi> what's the Power that makes</l>
+               <l>A Diſproportion, as it <hi>gives</hi> or <hi>takes?</hi>
+               </l>
+               <l>Believe the <hi>Structure</hi> of all <hi>Luck</hi> did rear</l>
+               <l>On their great <hi>Fore-cast</hi> and aſſiduous <hi>Cate;</hi>
+               </l>
+               <l>And never Perſon ſuffer'd <hi>Indigence,</hi>
+               </l>
+               <l>But what from their <hi>own Folly</hi> did commence,</l>
+               <l>Through <hi>want</hi> of <hi>Wit,</hi> or <hi>ſtock</hi> of <hi>Negligence.</hi>
+               </l>
+               <l>This I have heard <hi>averr'd:</hi> And ſo they blame</l>
+               <l>Deep <hi>Poverty,</hi> and make it <hi>guilty Shame;</hi>
+               </l>
+               <l>A thouſand <hi>Slights</hi> to the ſad Caſe attends,</l>
+               <l>From all our near and much profeſſed <hi>Friends:</hi>
+               </l>
+               <l>Moſt <hi>mighty Sorrow!</hi> doubled o're and o're!</l>
+               <l>How pondrous is this <hi>Load,</hi> that muſt be bore?</l>
+               <pb n="45" facs="tcp:100456:24"/>
+               <l>'Tis truly ſo: But ſince <hi>Heaven</hi> thought it good</l>
+               <l>Such Accidents ſhould come to <hi>Fleſh</hi> and <hi>Flood,</hi>
+               </l>
+               <l>There's an <hi>Example</hi> left us how to bear,</l>
+               <l>Without too much <hi>Dejection</hi> or <hi>Deſpair,</hi>
+               </l>
+               <l>As your <hi>Lord</hi> did: Strive you to do the ſame,</l>
+               <l>Endure the <hi>Croſs,</hi> deſpiſing all the <hi>Shame.</hi>
+               </l>
+            </lg>
+         </div>
+         <div type="poem">
+            <head>Of LOVE.</head>
+            <lg>
+               <l>O Thou bleſt Native of <hi>Celeſtial Joy,</hi>
+               </l>
+               <l>Which not our <hi>Peace</hi> but <hi>Malice</hi> doſt deſtroy,</l>
+               <l>Making us <hi>Wiſe, Just, Merciful</hi> and <hi>Pure,</hi>
+               </l>
+               <l>
+                  <hi>Slow</hi> to <hi>Revenge,</hi> and <hi>patiently</hi> endure,</l>
+               <l>'Till with <hi>ſoft Bleſſings</hi> we o'recome and draw</l>
+               <l>
+                  <hi>Tyrannick Foes</hi> by <hi>LOVE</hi> into an awe;</l>
+               <l>'Tis not thy <hi>Heavenly Rays</hi> which I reject,</l>
+               <l>Or ſpare to honour with Divine Reſpect:</l>
+               <l>But here's a <hi>racking Paſſion,</hi> which lays claim</l>
+               <l>To the bleſt <hi>Title</hi> of thy <hi>glorious Name,</hi>
+               </l>
+               <l>I cannot call it <hi>New,</hi> nor <hi>Counterfeit,</hi>
+               </l>
+               <l>Though falſly <hi>it</hi> aſſumes and plays the Cheat;</l>
+               <l>For it was <hi>old</hi> Thouſands of Years ago,</l>
+               <l>And acts with certain <hi>Fate</hi> all <hi>Ages</hi> know:</l>
+               <l>Whence <hi>it</hi> derives, no Mortal yet can tell,</l>
+               <l>Yet all averr they know <hi>it</hi> too too well,</l>
+               <l>Like ſome <hi>inchanting, common Miracle;</hi>
+               </l>
+               <pb n="46" facs="tcp:100456:25"/>
+               <l>Where e're it came, I find <hi>it</hi> is, at beſt,</l>
+               <l>The <hi>Grand Diſturber</hi> of all <hi>Human Rest;</hi>
+               </l>
+               <l>And therefore well avoided, if an <hi>Art</hi>
+               </l>
+               <l>Or <hi>Power</hi> there be to keep it from the Heart;</l>
+               <l>As ſuch I hope there <hi>is,</hi> which makes me ſay,</l>
+               <l>
+                  <hi>Charming Seducer!</hi> ſtrive not to betray</l>
+               <l>One <hi>peaceful Minute</hi> of my <hi>Rest</hi> away;</l>
+               <l>No <hi>Folly</hi> quote, to make a <hi>fair Excuſe,</hi>
+               </l>
+               <l>The <hi>Wiſest</hi> may be pleas'd with the <hi>Abuſe;</hi>
+               </l>
+               <l>For I have heard, when <hi>Reaſon</hi> was <hi>perplext,</hi>
+               </l>
+               <l>Her <hi>Soveraign</hi> ſent her to peruſe a <hi>Text</hi>
+               </l>
+               <l>Charg'd upon <hi>Life</hi> and <hi>Death,</hi> this plain Direction,</l>
+               <l>
+                  <hi>To mortifie inordinate Affection:</hi>
+               </l>
+               <l>If then, thou great <hi>Inchanter,</hi> with thy <hi>Wiles,</hi>
+               </l>
+               <l>
+                  <hi>Deluding Pleaſures</hi> and <hi>bewitching Smiles,</hi>
+               </l>
+               <l>Haſt one, or more, or many <hi>Souls,</hi> enſnar'd,</l>
+               <l>Forgetting this <hi>great Duty</hi> to regard,</l>
+               <l>So ſuffer'd thee to <hi>tye</hi> the <hi>enthralling Chains,</hi>
+               </l>
+               <l>Which brought and fixt <hi>intollerable Pains,</hi>
+               </l>
+               <l>And now if they the <hi>Indies</hi> did poſſeſs,</l>
+               <l>Twice doubled o're would give it for releaſe;</l>
+               <l>
+                  <hi>My</hi> chief Aſſiſtance, <hi>in their</hi> ſad Deſpair,</l>
+               <l>
+                  <hi>Shall be this</hi> Short <hi>but</hi> Charitable Prayer,</l>
+               <l>
+                  <hi>That in the</hi> Torments <hi>of this</hi> Fatal Fire,</l>
+               <l>
+                  <hi>When</hi> combating <hi>with</hi> over-ſtrong Deſire,</l>
+               <pb n="47" facs="tcp:100456:25"/>
+               <l>
+                  <hi>They do from every</hi> Worldly Succour <hi>fly,</hi>
+               </l>
+               <l>
+                  <hi>And upon</hi> Heavenly Grace <hi>alone rely,</hi>
+               </l>
+               <l>
+                  <hi>No other</hi> Refuge <hi>ſeek, or</hi> Means <hi>approve,</hi>
+               </l>
+               <l>
+                  <hi>To expel the</hi> Fury <hi>of</hi> Reſiſtleſs LOVE.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <head>
+               <hi>On the ſudden Return of</hi> Fair Wea<g ref="char:EOLhyphen"/>ther, <hi>after much</hi> Wind, Cloudineſs <hi>and</hi> Rain.</head>
+            <lg>
+               <l>
+                  <hi>SOL Baniſht,</hi> or <hi>Withdrawn,</hi> the mournful <hi>Sky</hi>
+               </l>
+               <l>Is hardly ſeen without a weeping Eye;</l>
+               <l>And from her <hi>melancholly Face</hi> ſhe pours,</l>
+               <l>On the dejected <hi>Earth,</hi> her <hi>Tears</hi> by <hi>Showrs;</hi>
+               </l>
+               <l>And diſmal <hi>Sighs</hi> in <hi>Storms</hi> of <hi>Winds</hi> did <hi>break,</hi>
+               </l>
+               <l>Screecht thro' the <hi>Globe,</hi> and made the <hi>Houſes ſhake;</hi>
+               </l>
+               <l>The <hi>Ground</hi> ſeem'd <hi>chill'd</hi> with <hi>Sadneſs</hi> in a State</l>
+               <l>of <hi>Grief,</hi> that did its Nature <hi>macerate:</hi>
+               </l>
+               <l>From Day to Day no ſign of <hi>change,</hi> but <hi>worſe,</hi>
+               </l>
+               <l>Look'd rather <hi>ſetl'd</hi> in a <hi>hopeleſs Courſe:</hi>
+               </l>
+               <l>Yet in the <hi>little ſpace</hi> of <hi>one ſhort Night,</hi>
+               </l>
+               <l>The <hi>Tide</hi> is turn'd, and all things <hi>alter'd quite;</hi>
+               </l>
+               <l>The <hi>Sky</hi> ſo <hi>clouded</hi> is <hi>ſerenely clear,</hi>
+               </l>
+               <l>The <hi>SUN</hi> in his full <hi>Luſtre</hi> does appear,</l>
+               <pb n="48" facs="tcp:100456:26"/>
+               <l>And as <hi>he</hi> downward caſt his <hi>Rays,</hi> the while</l>
+               <l>The <hi>new-heal'd Earth</hi> ſent up a <hi>joyful Smile:</hi>
+               </l>
+               <l>I ſaw <hi>it</hi> as I walkt, and could not chuſe,</l>
+               <l>But at the <hi>ſudden Alteration muſe,</hi>
+               </l>
+               <l>And think within my ſelf, Thou, <hi>LORD,</hi> who now</l>
+               <l>Haſt, in a trice, diſpell'd from <hi>Nature's Brow,</hi>
+               </l>
+               <l>A <hi>Cloud</hi> of <hi>Sorrow;</hi> haſt the ſame <hi>Power</hi> ſtill</l>
+               <l>To <hi>help</hi> all <hi>Grievances,</hi> when 'tis thy <hi>Will:</hi>
+               </l>
+               <l>Oft have I almoſt <hi>ſtagger'd</hi> in my <hi>Gare,</hi>
+               </l>
+               <l>But Thou art <hi>Mercy, LORD,</hi> what ſhould I <hi>fear.</hi>
+               </l>
+            </lg>
+         </div>
+         <div type="poem">
+            <head>On THANKSGIVING.</head>
+            <lg>
+               <l>IN the <hi>Abyſs</hi> of <hi>Sorrow,</hi> dark and deep,</l>
+               <l>Where heavy Mortals <hi>drouze</hi> but cannot <hi>ſleep,</hi>
+               </l>
+               <l>
+                  <hi>Rackt</hi> with an <hi>agonizing Grief,</hi> I lay,</l>
+               <l>My <hi>Heart</hi> all <hi>Pulſe,</hi> my <hi>Fleſh diſtemper'd Clay;</hi>
+               </l>
+               <l>
+                  <hi>My ſelf</hi> no more <hi>my ſelf,</hi> my <hi>Thoughts</hi> all were,</l>
+               <l>Through <hi>Terrors great,</hi> near <hi>Borderers</hi> on <hi>deſpair;</hi>
+               </l>
+               <l>None but <hi>black Minutes</hi> did on me attend,</l>
+               <l>No <hi>Breath</hi> I fetcht, but did in <hi>Sighs</hi> aſcend;</l>
+               <l>And while my <hi>Time</hi> thus diſmally did waſt,</l>
+               <l>Methoughts all <hi>Hopes</hi> of <hi>better Things</hi> was paſt:</l>
+               <l>So run the <hi>Night</hi> of <hi>Trouble,</hi> but the <hi>Morrow</hi>
+               </l>
+               <l>Succeeds with <hi>Joy,</hi> that <hi>equall'd</hi> all my <hi>Sorrow;</hi>
+               </l>
+               <pb n="49" facs="tcp:100456:26"/>
+               <l>Out of the <hi>Pit</hi> of this <hi>Affliction,</hi> I</l>
+               <l>Am carried to a <hi>Spacious Liberty;</hi>
+               </l>
+               <l>
+                  <hi>Comfort,</hi> like Walls, my Reſidence ſurround;</l>
+               <l>
+                  <hi>Comfort,</hi> the <hi>Voice</hi> and <hi>Eccho</hi> all reſound:</l>
+               <l>My <hi>Prayers,</hi> which juſt before in <hi>begging mourn'd,</hi>
+               </l>
+               <l>To <hi>Joyful Praiſes,</hi> for the <hi>Grant,</hi> is <hi>turn'd:</hi>
+               </l>
+               <l>What ſhall I <hi>render,</hi> how ſhall I extol</l>
+               <l>The <hi>uplifting</hi> of my <hi>Heart, recovery</hi> of my <hi>Fall;</hi>
+               </l>
+               <l>Shall it ſuffice to <hi>Celebrate one Day?</hi>
+               </l>
+               <l>Not the whole <hi>ſeven</hi> the <hi>Acknowledgment</hi> can pay?</l>
+               <l>A larger <hi>Stock</hi> of <hi>Gratitude</hi> I crave,</l>
+               <l>That on my <hi>Heart</hi> this <hi>MERCY</hi> Heaven <hi>engrave;</hi>
+               </l>
+               <l>Beyond the <hi>Race</hi> of <hi>Time,</hi> and <hi>Fortune's Lot,</hi>
+               </l>
+               <l>With <hi>glad Remembrance</hi> ne're to be <hi>forgot.</hi>
+               </l>
+            </lg>
+         </div>
+         <div type="poem">
+            <head>
+               <hi>Obſervation on the Life of</hi> Epictetus.</head>
+            <lg>
+               <l>POor <hi>Epictetus,</hi> born the Slave of <hi>Fate,</hi>
+               </l>
+               <l>Unparalell'd for abject mean Eſtate,</l>
+               <l>
+                  <hi>Rapt</hi> in a Cloud of unkind <hi>Fortune</hi>'s Jars,</l>
+               <l>And <hi>Deſtiny</hi> that ſeem'd to have no <hi>Stars;</hi>
+               </l>
+               <l>
+                  <hi>Dark</hi> as the <hi>Eye</hi> of <hi>Chance,</hi> which ſome call <hi>blind,</hi>
+               </l>
+               <l>
+                  <hi>Obſcure</hi> from <hi>Light</hi> in all things but his <hi>Mind,</hi>
+               </l>
+               <l>Which was enricht with <hi>Faculties</hi> could reach</l>
+               <l>The rareſt things <hi>Philoſophy</hi> did teach;</l>
+               <pb n="50" facs="tcp:100456:27"/>
+               <l>Yet by <hi>Laborious Burthens</hi> bath'd in <hi>Sweats,</hi>
+               </l>
+               <l>He every Day muſt <hi>Earn</hi> the <hi>Bread</hi> he <hi>eats;</hi>
+               </l>
+               <l>But he the <hi>Envy</hi> of his <hi>Fate</hi> beguiles,</l>
+               <l>And for her <hi>rigorous Frowns</hi> gives <hi>pleaſing Smiles,</hi>
+               </l>
+               <l>
+                  <hi>Contentment</hi> plain'd and ſmooth'd, each ſtep was <hi>rough</hi>
+               </l>
+               <l>And in his <hi>Wants</hi> ſtill made him rich enough,</l>
+               <l>Set him above the <hi>Top</hi> of <hi>Fame</hi>'s <hi>Renown,</hi>
+               </l>
+               <l>And higher than the <hi>Envy</hi> of a <hi>Crown,</hi>
+               </l>
+               <l>More happy than the <hi>Miſer,</hi> whoſe <hi>proud Share</hi>
+               </l>
+               <l>Of <hi>Wealth</hi> is equall'd with a <hi>Load</hi> of <hi>Care:</hi>
+               </l>
+               <l>Thus liv'd he <hi>free, brisk, ſatisfi'd</hi> and <hi>gay,</hi>
+               </l>
+               <l>As if, for <hi>Earth,</hi> he ſcorn'd to throw away</l>
+               <l>A ſingle <hi>Wiſh;</hi> and, as he ſtudied, ſaid,</l>
+               <l>
+                  <hi>My Thoughts, just now my preſent State have laid</hi>
+               </l>
+               <l>
+                  <hi>In view, and, as I look, this I behold,</hi>
+               </l>
+               <l>
+                  <hi>In my Condition I am</hi> Poor <hi>and</hi> Old,</l>
+               <l>
+                  <hi>And</hi> Happy <hi>therefore, knowing</hi> 'tis <hi>the best,</hi>
+               </l>
+               <l>
+                  <hi>Becauſe the</hi> GODS <hi>have choſe</hi> it <hi>from the rest,</hi>
+               </l>
+               <l>
+                  <hi>To give</hi> it <hi>me; their</hi> Wiſdom <hi>cannot err,</hi>
+               </l>
+               <l>
+                  <hi>And I the</hi> Gift <hi>before all things preferr.</hi>
+               </l>
+               <l>O wondrous <hi>Kertue</hi> in a <hi>Heathen</hi> Man!</l>
+               <l>With what <hi>Impatience,</hi> with what <hi>Face</hi> then can</l>
+               <l>A <hi>Chriſtian murmur ſorrow</hi> or <hi>repine,</hi>
+               </l>
+               <l>That reads this vaſt <hi>Humility</hi> of thine?</l>
+               <l>But who, alas! retains a <hi>peaceful Thought,</hi>
+               </l>
+               <l>More than by <hi>Heaven</hi>'s <hi>Diviner Hand</hi> is wrought?</l>
+               <pb n="51" facs="tcp:100456:27"/>
+               <l>
+                  <hi>Heaven</hi> is the <hi>Giver</hi> and <hi>Preſerver</hi> too</l>
+               <l>Of every <hi>ſpark</hi> of <hi>good</hi> we <hi>think</hi> or <hi>do.</hi>
+               </l>
+            </lg>
+         </div>
+         <div type="poem">
+            <head>
+               <hi>Obſervation on the Life of</hi> Joab.</head>
+            <lg>
+               <l>WIth <hi>ghaſtly Grief</hi> this <hi>Man</hi> of <hi>War</hi> I ſee,</l>
+               <l>His <hi>Noble Deeds</hi> and <hi>Sad Cataſtrophe;</hi>
+               </l>
+               <l>Who can at firſt but fall into <hi>Confuſion,</hi>
+               </l>
+               <l>To trace his <hi>Life</hi> and ſee the ſtrange <hi>Concluſion?</hi>
+               </l>
+               <l>Permit then, with Compaſſion, I may Write,</l>
+               <l>While I his <hi>Actions</hi> and his <hi>Fate</hi> Recite,</l>
+               <l>Few ever with more <hi>Loyalty</hi> ador'd</l>
+               <l>The Int'reſt of a <hi>Lov'd</hi> and <hi>Soveraign Lord,</hi>
+               </l>
+               <l>And, as an <hi>Omen</hi> of <hi>Heroick Glory;</hi>
+               </l>
+               <l>We find it mention'd in the <hi>Sacred Story,</hi>
+               </l>
+               <l>
+                  <hi>Heaven</hi> and his <hi>King</hi> did truſt in him repoſe,</l>
+               <l>For of great <hi>Iſrael</hi> he was General choſe,</l>
+               <l>And he a Reverence too to <hi>both</hi> did pay,</l>
+               <l>In the <hi>auſpicious</hi> and <hi>victorious Day,</hi>
+               </l>
+               <l>When <hi>Syria</hi>'s Hoſt before him fled away.</l>
+               <l>Theſe <hi>Cares</hi> and <hi>Dangers</hi> and the <hi>Victory</hi> ſtill,</l>
+               <l>Seem ſmall to pleaſe his <hi>Royal Maſter</hi>'s Will,</l>
+               <l>For when in <hi>Sin</hi> he ask'd him to combine,</l>
+               <l>With too fond readineſs he ſtrait did joyn,</l>
+               <l>And poor <hi>Uriah</hi> falls by the Deſign;</l>
+               <pb n="52" facs="tcp:100456:28"/>
+               <l>To <hi>Rabbah Ammon</hi>'s Royal City then</l>
+               <l>He leads the Bands of his <hi>undaunted Men,</hi>
+               </l>
+               <l>Where ſoon the <hi>Potent Foes</hi> in Strength decline,</l>
+               <l>Their <hi>weakned Army</hi>'s ready to reſign</l>
+               <l>Their <hi>Post,</hi> their <hi>Arms, Themſelves</hi> and <hi>Magazine:</hi>
+               </l>
+               <l>He to his <hi>Lord</hi> in haſt the <hi>News</hi> expreſt:</l>
+               <l>See, <hi>Rabbah</hi> yields! Come thou and do the reſt.</l>
+               <l>The <hi>City of Springs</hi> I have already tane,</l>
+               <l>Take thou the <hi>Royal City,</hi> that thy <hi>Fame</hi>
+               </l>
+               <l>May make it call'd by <hi>thine</hi> and not my <hi>Name.</hi>
+               </l>
+               <l>Then, to compleat the <hi>Pleaſure</hi> of his <hi>Soul,</hi>
+               </l>
+               <l>He did by <hi>Wile</hi> the <hi>Rule of State</hi> controul,</l>
+               <l>To fetch his Darling <hi>Abſolom</hi> from Exile,</l>
+               <l>For whom the Indulgent. Father <hi>pin'd</hi> the while;</l>
+               <l>And when this <hi>Charming Youth</hi> with flattery ſtole</l>
+               <l>The Hearts of <hi>Iſrael, Joab</hi>'s conſtant Soul</l>
+               <l>Defies the <hi>Treaſon,</hi> as a thing abhorr'd,</l>
+               <l>And never left the <hi>Service</hi> of his <hi>LORD,</hi>
+               </l>
+               <l>Till even, againſt his own expreſs <hi>Commands,</hi>
+               </l>
+               <l>He <hi>David</hi>'s Shield and <hi>Iſrael</hi>'s Champion ſtands,</l>
+               <l>Piercing that <hi>Heart</hi> where <hi>Rebel-thoughts</hi> aroſe,</l>
+               <l>Againſt his <hi>Soveraign</hi>'s <hi>Life</hi> and <hi>ſafe Repoſe.</hi>
+               </l>
+               <l>When this was ended, <hi>Sheba</hi>'s Plot begins,</l>
+               <l>And thrives as faſt as all new growing Sins;</l>
+               <l>Here <hi>Amaſa</hi> is ſent, to number all</l>
+               <l>That would declare to anſwer <hi>David</hi>'s call;</l>
+               <pb n="53" facs="tcp:100456:28"/>
+               <l>But ſlack in his <hi>return,</hi> the <hi>King's</hi> no leſs</l>
+               <l>Than put in fear of <hi>Sheba</hi>'s great Succeſs:</l>
+               <l>At which, enrag'd with Choler, <hi>Joab</hi> ſlew</l>
+               <l>Good <hi>Amaſa;</hi> then, like a <hi>Lion,</hi> flew</l>
+               <l>With his <hi>Couragious Troops</hi> for Warriours Fates,</l>
+               <l>To <hi>Abel</hi> of <hi>Beth-Maacah</hi> City-gates,</l>
+               <l>There, with a <hi>brave Revenge,</hi> his Forces ſpread,</l>
+               <l>Till o're the <hi>Walls</hi> they throw the <hi>Traitor</hi>'s <hi>Head.</hi>
+               </l>
+               <l>Now <hi>David,</hi> with a ſecret Pride, inſpir'd,</l>
+               <l>The Number of all <hi>Iſrael</hi> deſir'd,</l>
+               <l>From <hi>Dan</hi> to <hi>Beerſheba,</hi> o're <hi>Jerdan</hi>'s Ford,</l>
+               <l>To ſee of what <hi>vast People</hi> he was <hi>Lord;</hi>
+               </l>
+               <l>And, that the <hi>Accompt</hi> might be exactly made,</l>
+               <l>On <hi>Joab</hi> his Commands he ſtraitway laid.</l>
+               <l>
+                  <hi>Joab,</hi> not pleas'd, in Modeſty replies,</l>
+               <l>
+                  <hi>May</hi> He <hi>that bleſſes all, bleſs my Lord's Eyes,</hi>
+               </l>
+               <l>
+                  <hi>To ſee that</hi> People, <hi>whoſe great Sums untold,</hi>
+               </l>
+               <l>
+                  <hi>Tho' ne're ſo</hi> numerous, <hi>now</hi> increaſe a hundred-fold.</l>
+               <l>
+                  <hi>But why, my Lord, the most religious King,</hi>
+               </l>
+               <l>
+                  <hi>Delight his Sacred Self in ſuch a thing?</hi>
+               </l>
+               <l>
+                  <hi>Good,</hi> was the anſwer; but to no effect,</l>
+               <l>
+                  <hi>David</hi>'s the <hi>ſame,</hi> and <hi>Joab</hi>'s great reſpect</l>
+               <l>To him, o'recomes his own Reluctancies,</l>
+               <l>His <hi>King</hi> he <hi>ſerves,</hi> whate're <hi>neglected</hi> lies,</l>
+               <l>Tho' <hi>Fame</hi> and <hi>Conſcience</hi> both he ſacrifice.</l>
+               <pb n="54" facs="tcp:100456:29"/>
+               <l>Who cou'd have thought a <hi>Man</hi> of this <hi>Renown,</hi>
+               </l>
+               <l>So <hi>true</hi> and <hi>long</hi> a <hi>Servant</hi> to the <hi>Crown,</hi>
+               </l>
+               <l>Should from the <hi>beſt of Maſters,</hi> when he came to die,</l>
+               <l>Receive a <hi>fatal unkind Legacy;</hi>
+               </l>
+               <l>And that his <hi>Prince,</hi> with his <hi>expiring Breath,</hi>
+               </l>
+               <l>Should give his <hi>Silver Hairs</hi> a <hi>Crimſon Death,</hi>
+               </l>
+               <l>Which, when the <hi>Royal Head</hi> in Duſt was laid,</l>
+               <l>Was quickly by his <hi>Heir</hi> with <hi>Rigour</hi> paid?</l>
+               <l>Heaven's <hi>Juſtice</hi> order'd <hi>this,</hi> and we may ſee</l>
+               <l>There's no <hi>eſcape</hi> from its <hi>Divine Decree;</hi>
+               </l>
+               <l>Nothing ſecure, but what is purely done</l>
+               <l>With upright <hi>Thought</hi> before that <hi>Holy One,</hi>
+               </l>
+               <l>Who does the <hi>ſecret</hi> of the <hi>Heart</hi> regard,</l>
+               <l>And, as we think, gives openly reward.</l>
+               <l>O <hi>Joab,</hi> hadſt thou <hi>ſought</hi> thy <hi>GOD</hi> in all,</l>
+               <l>No <hi>Human Power</hi> could have made thee <hi>fall;</hi>
+               </l>
+               <l>Better hadſt thou at <hi>King</hi> and <hi>Kingdom ſpurn'd,</hi>
+               </l>
+               <l>And to thy <hi>GOD</hi> for <hi>Counſel</hi> always <hi>turn'd,</hi>
+               </l>
+               <l>Then <hi>ſafe</hi> and <hi>blameleſs</hi> had thy <hi>Actions</hi> been,</l>
+               <l>Without the <hi>Stain</hi> or <hi>Puniſhment</hi> of <hi>Sin:</hi>
+               </l>
+               <l>From <hi>thy Example</hi> may I never truſt</l>
+               <l>In thoſe <hi>Illuſtrious Names, Great, Good,</hi> and <hi>Just;</hi>
+               </l>
+               <l>A <hi>Princely Patron</hi> or a <hi>Noble Friend,</hi>
+               </l>
+               <l>Their <hi>Smiles</hi> no <hi>true Security</hi> can lend:</l>
+               <pb n="55" facs="tcp:100456:29"/>
+               <l>Give me <hi>Integrity</hi> to <hi>GOD</hi> no leſs</l>
+               <l>Than the <hi>Almighty</hi>'s <hi>Smiles</hi> can truly bleſs,</l>
+               <l>'Tis he alone that muſt <hi>defend</hi> me ſtill,</l>
+               <l>
+                  <hi>Man</hi> may be a <hi>Friend</hi> 'tis true, <hi>GOD</hi> I am ſure will.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <head>
+               <hi>Obſervation on the Life of</hi> Elijah, <hi>Pro<g ref="char:EOLhyphen"/>phet of the Lord.</hi>
+            </head>
+            <lg>
+               <l>CAn <hi>pregnant Honour,</hi> from her <hi>ſwelling Store,</hi>
+               </l>
+               <l>Of none but <hi>glorious Gifts</hi> diſtribute more</l>
+               <l>Than this <hi>high Title?</hi> Or can <hi>Earth</hi> afford</l>
+               <l>Ought greater than a <hi>Prophet of the Lord,</hi>
+               </l>
+               <l>To whom the <hi>general World</hi> Reſpect ſhould bear,</l>
+               <l>And whom <hi>crown'd Heads</hi> do <hi>Honour, Love</hi> and <hi>Fear?</hi>
+               </l>
+               <l>In this <hi>great Dignity, Elijah</hi> he</l>
+               <l>Was of the <hi>Highest Rank, Noblest Degree,</hi>
+               </l>
+               <l>For <hi>Heavenly Graces</hi> don't all equal ſhine,</l>
+               <l>And there are <hi>Claſſis</hi> even of <hi>Beams Divine;</hi>
+               </l>
+               <l>For an <hi>Immortal Mark</hi> of <hi>Honour</hi> more</l>
+               <l>This Man the <hi>Type</hi> of <hi>blest Meſſiah</hi> bore:</l>
+               <l>But ſee, for all theſe <hi>Wonders,</hi> how he liv'd,</l>
+               <l>
+                  <hi>Tortur'd, afflicted, hated, poor</hi> and <hi>griev'd,</hi>
+               </l>
+               <l>And he whom <hi>Miracles</hi> as Means did wait,</l>
+               <l>I find ne'r <hi>compaſs'd</hi> Competent Eſtate;</l>
+               <pb n="56" facs="tcp:100456:30"/>
+               <l>Tho' born a <hi>Jew,</hi> whoſe common <hi>Bleſſing</hi> was,</l>
+               <l>In <hi>proſperous Ways,</hi> each Nation to ſurpaſs,</l>
+               <l>And then thought <hi>Crown'd</hi> with all the <hi>Bliſs of Life.</hi> a <hi>beauteous Wife;</hi>
+               </l>
+               <l>When to their <hi>Store</hi> they had <hi>numerous Children</hi> and</l>
+               <l>But <hi>Celebacy</hi> ſeems his State to be,</l>
+               <l>And never any <hi>Wife</hi> or <hi>Child</hi> had he.</l>
+               <l>If theſe are <hi>Joys</hi> that bleſs the <hi>bravest Hearts,</hi>
+               </l>
+               <l>And only ſuitable to <hi>great Deſerts,</hi>
+               </l>
+               <l>Did Heaven to others <hi>all theſe things</hi> divide,</l>
+               <l>While he, <hi>blest Prophet,</hi> was of <hi>all</hi> deny'd;</l>
+               <l>Throughout his <hi>Life</hi> there's nothing <hi>does</hi> appear,</l>
+               <l>But <hi>Sorrow, Solitude, Hardſhips,</hi> and <hi>Fear.</hi>
+               </l>
+               <l>The firſt I read of his <hi>exerted Power,</hi>
+               </l>
+               <l>Was in that <hi>lamentable dreadful Hour,</hi>
+               </l>
+               <l>When he <hi>denounc'd</hi> the near <hi>approaching Birth</hi>
+               </l>
+               <l>Of <hi>Famine</hi> on the <hi>unrepleniſh'd Earth,</hi>
+               </l>
+               <l>When in <hi>three ſultry Years</hi> not one <hi>kind Shown,</hi>
+               </l>
+               <l>To her <hi>parch'd Heat</hi> a <hi>Balmy Drop</hi> ſhould pour;</l>
+               <l>This he <hi>denounc'd,</hi> and very well he knew</l>
+               <l>The <hi>Oracle of Fate</hi> would prove too true,</l>
+               <l>Yet, for himſelf, no <hi>horded Stock</hi> he laid,</l>
+               <l>No <hi>Granary</hi> and no <hi>Proviſion</hi> made:</l>
+               <l>I do not hear but that the <hi>Earth,</hi> of <hi>Rain,</hi>
+               </l>
+               <l>Enjoy'd as much as he had <hi>Land</hi> or <hi>Grain,</hi>
+               </l>
+               <pb n="57" facs="tcp:100456:30"/>
+               <l>And no <hi>prudential Store</hi> of Food was made,</l>
+               <l>To keep his Life as the <hi>Egyptians</hi> had;</l>
+               <l>Tho', 'tis not doubted, <hi>Ahab</hi> and the reſt</l>
+               <l>Of the rich <hi>Iſraelites</hi> in Form poſſeſt</l>
+               <l>A viſible <hi>Supply,</hi> that might ſuſtain</l>
+               <l>Till <hi>Plenty</hi> came with the return of <hi>Rain.</hi>
+               </l>
+               <l>Mean time a <hi>Voice</hi> from <hi>Heaven</hi> warns him from thence,</l>
+               <l>To ſee the <hi>Miracle</hi> of <hi>Providence,</hi>
+               </l>
+               <l>Bidding him <hi>hide</hi> himſelf towards the <hi>Eaſt,</hi>
+               </l>
+               <l>At <hi>Cherith</hi>'s Brook apply himſelf a <hi>Guest,</hi>
+               </l>
+               <l>Where <hi>Ravens,</hi> by Omnipotent Command,</l>
+               <l>Should be his <hi>Feeders</hi> from the Almighty's Hand:</l>
+               <l>'Twas ſo, and thus the <hi>Miracle</hi> enjoy'd,</l>
+               <l>
+                  <hi>Life</hi> was preſerv'd, and <hi>Hunger</hi> was <hi>deſtroy'd:</hi>
+               </l>
+               <l>But now a <hi>dreadful Scene</hi> before his Eyes,</l>
+               <l>This Life-preſerving <hi>River-water</hi> dries;</l>
+               <l>No <hi>Miracle</hi> is ſent to ſtop the Courſe</l>
+               <l>Of Nature's <hi>drought,</hi> or ſtay its <hi>rapid force:</hi>
+               </l>
+               <l>What Proof and Tryal of his <hi>Faith</hi> was here,</l>
+               <l>To have the <hi>River fail,</hi> and he not <hi>fear?</hi>
+               </l>
+               <l>How would a faithleſs murmurring Wretch have cry'd,</l>
+               <l>
+                  <hi>The Means is periſh'd which my Wants ſupply'd!</hi>
+               </l>
+               <l>
+                  <hi>Was I ſent forth a Wanderer thus accurst,</hi>
+               </l>
+               <l>
+                  <hi>To die in</hi> Fires <hi>by an inflaming</hi> Thirſt?</l>
+               <pb n="58" facs="tcp:100456:31"/>
+               <l>Not ſuch a <hi>Fear</hi> or once <hi>regretting Word,</hi>
+               </l>
+               <l>His Heart did ſhow or milder Lips afford,</l>
+               <l>But waits the <hi>Time</hi> of his remembring Lord,</l>
+               <l>Who had prepar'd the Widow's <hi>Meal</hi> and <hi>Cruſe,</hi>
+               </l>
+               <l>To ſerve the reſt of all the three Years uſe,</l>
+               <l>And in it did a <hi>Miracle</hi> produce.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>This</hi> being <hi>o're,</hi> the <hi>Sacred Man</hi> is ſent</l>
+               <l>To ſee that King who none but <hi>Puniſhment</hi>
+               </l>
+               <l>Did ſtudy, and reſolve for ſuch a <hi>Guest</hi>
+               </l>
+               <l>Too heavenly and divine on Earth to reſt:</l>
+               <l>But the erronious King's malicious Power</l>
+               <l>Had <hi>Limits</hi> ſet, till <hi>Heavens</hi> appointed <hi>Hour.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>And now <hi>Elijah</hi> bravely does alarm</l>
+               <l>
+                  <hi>Baal</hi>'s Prieſts and Prieſts o'th Grove, who flocking ſwarm</l>
+               <l>With all the poor deluded People, who</l>
+               <l>Their own <hi>true God</hi> ſcarce ever ſought or knew;</l>
+               <l>
+                  <hi>Elijah,</hi> reaſoning with them, made demand,</l>
+               <l>Why they, 'twixt <hi>two Opinions,</hi> halting ſtand?</l>
+               <l>And bids them <hi>follow</hi> God, <hi>if 'twere the Lord,</hi>
+               </l>
+               <l>
+                  <hi>Or if 'twere,</hi> Baal: They anſwer'd not a word.</l>
+               <l>Then ſaid he to them, <hi>I, even I alone</hi>
+               </l>
+               <l>
+                  <hi>Remain a</hi> Prophet <hi>of the Lord's, beſides me there is none,</hi>
+               </l>
+               <l>
+                  <hi>But</hi> Baals <hi>in number more abound, the Account</hi>
+               </l>
+               <l>
+                  <hi>Does to a Host of near</hi> five Hundred <hi>mount;</hi>
+               </l>
+               <pb n="59" facs="tcp:100456:31"/>
+               <l>
+                  <hi>Let them therefore</hi> two Bullocks <hi>give, and chuſe</hi>
+               </l>
+               <l>One <hi>for themſelves, the</hi> other <hi>I will uſe;</hi>
+               </l>
+               <l>Both <hi>being cut in pieces, both we'll lay</hi>
+               </l>
+               <l>
+                  <hi>On Wood, but put no Fires, only pray,</hi>
+               </l>
+               <l>
+                  <hi>They to their</hi> Gods, <hi>I to the</hi> Lord, <hi>and ſee</hi>
+               </l>
+               <l>
+                  <hi>Who anſwers first</hi> by Fire, <hi>the God ſhall be.</hi>
+               </l>
+               <l>This done, the Prieſts of <hi>Baal</hi> all loudly cry'd,</l>
+               <l>And <hi>cut</hi> and <hi>wound</hi> themſelves, and <hi>prophecy'd</hi>
+               </l>
+               <l>Till <hi>Evening,</hi> but no <hi>Voice</hi> or <hi>Sign</hi> reply'd.</l>
+               <l>Then did <hi>Elijah</hi> to the People call,</l>
+               <l>Who wait him with expecting wonder all;</l>
+               <l>He ſtrait repairs <hi>GOD</hi>'s <hi>Altar,</hi> broke before,</l>
+               <l>And took <hi>twelve Stones,</hi> and made one Altar more;</l>
+               <l>And round that <hi>Altar</hi> made a <hi>Trench</hi> as great</l>
+               <l>As would contain two Meaſures full of Wheat;</l>
+               <l>He puts the <hi>Wood</hi> in <hi>order,</hi> then diſſects</l>
+               <l>The <hi>Bullock</hi> of his <hi>Limbs,</hi> a Pile erects;</l>
+               <l>The <hi>Fleſh,</hi> thus ready laid for <hi>Sacrifice,</hi>
+               </l>
+               <l>
+                  <hi>Four Water-barrels</hi> he commanded thrice</l>
+               <l>Be fill'd, and thrice pour'd forth, and all the while</l>
+               <l>The trickling <hi>Altar</hi> and the floating <hi>Pile</hi>
+               </l>
+               <l>With theſe repeated <hi>Currents</hi> drench'd and drown'd;</l>
+               <l>The Trench ſo fill'd, ſtood as 'twere moated round;</l>
+               <l>Then to his <hi>GOD</hi> with moving <hi>Ardor</hi> calls,</l>
+               <l>When lo the wondrous <hi>Heavenly Fire</hi> ſtrait falls,</l>
+               <pb n="60" facs="tcp:100456:32"/>
+               <l>Conſuming not the <hi>Sacrifice</hi> alone,</l>
+               <l>But the <hi>Wood,</hi> the very <hi>Dust</hi> and <hi>Stone;</hi>
+               </l>
+               <l>So hot the <hi>Flames,</hi> that even the <hi>Waters</hi> burn</l>
+               <l>The very <hi>Trench</hi> it ſelf.</l>
+               <l>No more a <hi>Watry</hi> now an <hi>Aſhy Urn,</hi>
+               </l>
+               <l>At which, amaz'd, the People <hi>proſtrate</hi> fall,</l>
+               <l>And, with a <hi>Face</hi> confus'd, they loudly call,</l>
+               <l>To tell who was the <hi>Living God</hi> alone;</l>
+               <l>
+                  <hi>The LORD</hi> is <hi>GOD, the LORD</hi> is <hi>GOD they own.</hi>
+               </l>
+               <l>Then did <hi>Elijah</hi> charge them not to ſpare</l>
+               <l>One of <hi>Baal</hi>'s Prophets, but ſecure, with care,</l>
+               <l>The total Number, which he wholly took,</l>
+               <l>And brought them ſafely down to <hi>Kiſhon</hi>-Brook,</l>
+               <l>And with a <hi>Zeal</hi> religious and ſevere,</l>
+               <l>Spared not only <hi>Cheat,</hi> but ſlew them there.</l>
+               <l>And then he ſent his Servant to the King,</l>
+               <l>Who of the <hi>ſhowring Heavens</hi> did the bleſt Tydings bring,</l>
+               <l>Bidding him, <hi>Eat and Drink and post away.</hi>
+               </l>
+               <l>Which Meſſage <hi>Ahab</hi> heard and did obey.</l>
+               <l>Who now could think there could a <hi>danger</hi> be</l>
+               <l>O're all the Earth to make this <hi>Prophet</hi> flee?</l>
+               <l>Yet ſo it was, though King and People too,</l>
+               <l>Their Eyes ſo late <hi>convinc'd,</hi> they trembling view,</l>
+               <l>His <hi>wondrous Might, Deeds</hi> more than <hi>Man</hi> cou'd do.</l>
+               <l>Idolatrous <hi>Jezebel</hi> his <hi>Doom</hi> has given.</l>
+               <l>Behold, that Royal painted <hi>Foe</hi> of Heaven</l>
+               <pb n="61" facs="tcp:100456:32"/>
+               <l>Has vow'd, that the next Morning-Sun ſhall ſee</l>
+               <l>The <hi>Sacrificer,</hi> now the <hi>Offering</hi> be;</l>
+               <l>Swears, to revenge her darling <hi>Favourites</hi> Blood,</l>
+               <l>His own ſhall mix with their dear Crimſon Flood.</l>
+               <l>Her <hi>Cruelty</hi> he ſoon believes and ſhuns,</l>
+               <l>And, for his <hi>Life,</hi> on this occaſion runs</l>
+               <l>To <hi>Beerſheba</hi> belong'd to <hi>Judah,</hi> where</l>
+               <l>He left the Man that was his Servant there,</l>
+               <l>And all alone into the <hi>Deſart</hi> went</l>
+               <l>A whole Day's Journey in his <hi>Diſcontent,</hi>
+               </l>
+               <l>Under a Tree of <hi>Juniper</hi> he ſate</l>
+               <l>Conſidering of his diſmal mortal <hi>Fate,</hi>
+               </l>
+               <l>And now requeſted for himſelf <hi>to die,</hi>
+               </l>
+               <l>Perhaps not thinking his bleſt <hi>Change</hi> ſo nigh;</l>
+               <l>So, while in <hi>Prayer</hi> and muſing <hi>Thoughts</hi> he keeps,</l>
+               <l>Under this <hi>Tree</hi> reſign'd, he lies and ſleeps,</l>
+               <l>Mean time an unſeen <hi>Angel</hi> brings him <hi>Meat,</hi>
+               </l>
+               <l>Gives him a <hi>touch,</hi> and bids him <hi>riſe and eat.</hi>
+               </l>
+               <l>He roſe, and eat and drank, and down he lay,</l>
+               <l>To ſleep again his Wearineſs away,</l>
+               <l>His ſweet <hi>Diſturber</hi> comes once more; his Gueſt</l>
+               <l>Invites a ſecond time t' his <hi>Heavenly Feast,</hi>
+               </l>
+               <l>Viands ſo rich, tho' ſhort was the Repaſt,</l>
+               <l>(No <hi>Table</hi> ſpread with <hi>Pomp,</hi> but laid in haſt)</l>
+               <l>That by two Meals, ſo cheriſh Nature reign'd,</l>
+               <l>As <hi>forty days</hi> and <hi>nights</hi> of <hi>Health</hi> &amp; <hi>Life</hi> maintain'd.</l>
+               <pb n="62" facs="tcp:100456:33"/>
+               <l>Thus to the Mount of <hi>GOD, Horeb</hi> by Name,</l>
+               <l>He in the <hi>ſtrength</hi> of this <hi>twice eating</hi> came,</l>
+               <l>And there he took his <hi>Lodging</hi> in a <hi>Cave,</hi>
+               </l>
+               <l>The <hi>Emblem</hi> of his ſo much courted <hi>Grave.</hi>
+               </l>
+               <l>Then comes the <hi>Interrogative</hi> of <hi>GOD,</hi>
+               </l>
+               <l>And asks him, <hi>Why it was he there abode?</hi>
+               </l>
+               <l>He tells his Zeal, does <hi>Iſrael</hi>'s Sin declare,</l>
+               <l>They had all <hi>GOD</hi>'s Prophets ſlain, nor him would ſpare.</l>
+               <l>Now is he bid to aſcend that <hi>Mount,</hi> a Place</l>
+               <l>Which great <hi>Jehovah</hi>'s preſence deign'd to grace,</l>
+               <l>Where all deſcending from his Throne more high,</l>
+               <l>As the <hi>Omnipotent,</hi> paſs'd radiant by,</l>
+               <l>The <hi>Mountains</hi> rent with <hi>Wind,</hi> the frighted <hi>Earth</hi> did quake,</l>
+               <l>The <hi>Adamantine Rocks</hi> in ſhatter'd pieces ſhake;</l>
+               <l>Then blaz'd a <hi>ſtream</hi> of <hi>Fire,</hi> the Harbinger</l>
+               <l>Of the great <hi>GOD,</hi> for yet <hi>GOD</hi> was not there.</l>
+               <l>Now ſpoke a <hi>ſtill ſmall Voice,</hi> bids him appoint</l>
+               <l>
+                  <hi>Two Royal Succeſſors,</hi> and <hi>both</hi> anoint;</l>
+               <l>To theſe a <hi>third</hi> and <hi>greater Succeſſor,</hi>
+               </l>
+               <l>
+                  <hi>Heir</hi> to his <hi>own Divine Prophetick Power,</hi>
+               </l>
+               <l>A <hi>Tongue</hi> whom <hi>Oracles</hi> ſhould all <hi>inſpire,</hi>
+               </l>
+               <l>Touch'd with a <hi>Coal</hi> from his own <hi>Heavenly Fire.</hi>
+               </l>
+               <l>Now thou, dear <hi>Prophet,</hi> whoſe reſigning Breath</l>
+               <l>Had ask'd before no Boon of <hi>GOD</hi> but Death,</l>
+               <pb n="63" facs="tcp:100456:33"/>
+               <l>Time haſtens that thy <hi>Toils</hi> muſt be releaſt,</l>
+               <l>Thy <hi>Sufferings</hi> ended, and <hi>thy ſelf</hi> at reſt</l>
+               <l>Within the Regions of the Ever-bleſt:</l>
+               <l>How ſupernatural was thy Defire,</l>
+               <l>Crown'd with a <hi>Chariot</hi> of <hi>Triumphant Fire,</hi>
+               </l>
+               <l>Which flew more ſwift than ever <hi>Motion</hi> run:</l>
+               <l>And carried thee above the <hi>Stars</hi> and <hi>Sun:</hi>
+               </l>
+               <l>Thus fledſt thou up to thy <hi>immenſe Reward,</hi>
+               </l>
+               <l>And nothing could thy <hi>heavenly Flight</hi> retard.</l>
+               <l>O, unexampled Man! who <hi>Earth</hi> reſign'd;</l>
+               <l>
+                  <hi>Earth</hi> and its Vanities all left behind;</l>
+               <l>Feltſt not the <hi>Pangs</hi> of an <hi>expiring Breath,</hi>
+               </l>
+               <l>The <hi>Courſe</hi> of <hi>Sickneſs,</hi> or the <hi>Stroke</hi> of <hi>Death.</hi>
+               </l>
+               <l>Sure then our Father <hi>Abraham</hi> thou waſt greater,</l>
+               <l>For he, like others, fell <hi>weak Nature</hi>'s Debter,</l>
+               <l>Kept in a <hi>Grave,</hi> turn'd to <hi>Original Dust,</hi>
+               </l>
+               <l>Conſin'd there, till the <hi>riſing</hi> of the <hi>Just.</hi>
+               </l>
+               <l>If then a Saint, incomparable rare,</l>
+               <l>One of the greateſt <hi>Prophets</hi> ever were,</l>
+               <l>Led all his <hi>Life</hi> but <hi>ſorrowful</hi> and <hi>poor,</hi>
+               </l>
+               <l>I muſt conclude, in <hi>Poverty,</hi> there's more</l>
+               <l>Deſign'd by <hi>Heaven,</hi> for <hi>Guidance</hi> or <hi>Defence,</hi>
+               </l>
+               <l>Than ever was found out by Human Sence;</l>
+               <l>'Tis a <hi>myſterious Thing,</hi> that <hi>Want</hi> ſhould be</l>
+               <l>The <hi>leading Path</hi> that joyns <hi>Felicity,</hi>
+               </l>
+               <pb n="64" facs="tcp:100456:34"/>
+               <l>And thoſe who <hi>leaſt</hi> are <hi>truſted</hi> and <hi>approv'd,</hi>
+               </l>
+               <l>To enjoy <hi>Eſtates</hi> are moſt by <hi>Heaven belov'd;</hi>
+               </l>
+               <l>Strange is the <hi>Method,</hi> but I cannot fear,</l>
+               <l>There is a <hi>Secret</hi> in't, <hi>divine</hi> and <hi>clear,</hi>
+               </l>
+               <l>To <hi>Heaven</hi>'s <hi>eye</hi> alone and never yet to <hi>Mortals</hi> did appear,</l>
+               <l>'Cauſe this <hi>bleſt Man</hi> did undergo that <hi>State,</hi>
+               </l>
+               <l>That ſeem'd his very <hi>Choice</hi> as well as <hi>Fate;</hi>
+               </l>
+               <l>
+                  <hi>Fate</hi> he could change; we ſee his <hi>Prayers</hi> alone</l>
+               <l>That <hi>Wonder</hi> had perform'd, and had he known</l>
+               <l>
+                  <hi>Poverty</hi> a Curſe, ſure he had chang'd his own:</l>
+               <l>Beſides, as he foreſaw the <hi>prickly Thorn,</hi>
+               </l>
+               <l>A <hi>Wreath</hi> ſhould even the <hi>Brow</hi> of <hi>GOD</hi> adorn,</l>
+               <l>
+                  <hi>Poor, Humble, Low,</hi> in <hi>Shilo</hi>'s bleſt Record,</l>
+               <l>Reſerv'd the <hi>Titles</hi> of the <hi>World</hi>'s <hi>great LORD.</hi>
+               </l>
+               <l>The <hi>Path</hi> of <hi>Poverty</hi> well haſt thou trod,</l>
+               <l>Bleſt <hi>Prophet,</hi> to be follow'd by thy <hi>GOD.</hi>
+               </l>
+            </lg>
+         </div>
+         <div type="poem">
+            <head>
+               <hi>On the worthily honour'd Madam</hi> Mary Fountayn.</head>
+            <lg>
+               <l>
+                  <hi>Weep, weep,</hi> ye Clouds, diſtill into her <hi>Urn</hi>
+               </l>
+               <l>Such <hi>Tears</hi> to quench a <hi>Flame</hi> unapt to burn.</l>
+               <l>The <hi>Uurn</hi> it ſelf ſhall <hi>weep</hi> perpetual Store,</l>
+               <l>Becauſe this <hi>nobleſt Friend</hi> of mine's no more:</l>
+               <pb n="65" facs="tcp:100456:34"/>
+               <l>Let <hi>Nymphs</hi> attend the <hi>Glory</hi> of the <hi>Plains,</hi>
+               </l>
+               <l>Whoſe charming <hi>Brightneſs</hi> is ador'd by <hi>Swains,</hi>
+               </l>
+               <l>With <hi>Sable Veſtments,</hi> cloath'd in mournful ſtate,</l>
+               <l>To ſolemnize her <hi>Funeral Rites,</hi> tho' late;</l>
+               <l>While I, dejected, ſtrive for to reherſe</l>
+               <l>
+                  <hi>Unſpotted Vertues</hi> in <hi>Eternal Verſe,</hi>
+               </l>
+               <l>In tuneful <hi>Lays,</hi> tho' diſmal are the <hi>Strains,</hi>
+               </l>
+               <l>Which <hi>chills</hi> the <hi>circling Blood,</hi> runs thro' my <hi>Veins;</hi>
+               </l>
+               <l>Witneſs, ye Heavenly Powers, the <hi>Favours</hi> ſhe</l>
+               <l>Daily bequeath'd <hi>my Parents</hi> and to <hi>me;</hi>
+               </l>
+               <l>Who <hi>lov'd</hi> my <hi>tender Mother</hi> to the end,</l>
+               <l>And ſhow'd herſelf a <hi>thouſand Ways</hi> her <hi>Friend,</hi>
+               </l>
+               <l>In <hi>all Extremities</hi> ſtood her <hi>Defence,</hi>
+               </l>
+               <l>Under the <hi>goodneſs</hi> of <hi>Omnipotence.</hi>
+               </l>
+               <l>If <hi>Wiſdom, Love,</hi> or <hi>Honour,</hi> could defeat</l>
+               <l>The <hi>Stroke</hi> of <hi>Death,</hi> this <hi>Star</hi> had never ſet,</l>
+               <l>But ſtill been <hi>ſhining</hi> in her <hi>ſplendid Sphere</hi>
+               </l>
+               <l>And <hi>influential Beams</hi> around her <hi>Cheer.</hi>
+               </l>
+               <l>Ye <hi>Fountains,</hi> now your <hi>gliding Currents</hi> ceaſe,</l>
+               <l>And <hi>fertile Nile,</hi> forbear your <hi>vast Increaſe,</hi>
+               </l>
+               <l>Since I'm depriv'd, by <hi>fatal Siſters three,</hi>
+               </l>
+               <l>Of this <hi>great Bleſſing,</hi> O! ſo dear to me.</l>
+               <l>You'l ſay, no <hi>Diſcompoſure</hi> ought <hi>profane,</hi>
+               </l>
+               <l>Much leſs <hi>deſpair</hi> my well fix'd <hi>Morals</hi> ſtain:</l>
+               <l>But <hi>he,</hi> who Precepts <hi>gave</hi> as well as <hi>kept,</hi>
+               </l>
+               <l>Could not <hi>forbear</hi> his <hi>dearest Friend,</hi> but <hi>wept.</hi>
+               </l>
+               <pb n="66" facs="tcp:100456:35"/>
+               <l>Oft have I wiſh'd from <hi>Buſineſs</hi> to retire,</l>
+               <l>To contemplate the <hi>griefs</hi> of my Deſire;</l>
+               <l>There, in ſome <hi>ſecret Grove,</hi> where none might ſee,</l>
+               <l>I might for ever <hi>mourn</hi> her <hi>Obſequy,</hi>
+               </l>
+               <l>In <hi>Sorrow</hi>'s <hi>Rills</hi> condole, with <hi>pitious Moan,</hi>
+               </l>
+               <l>To grateful <hi>Eccho's,</hi> which reſound each <hi>Groan;</hi>
+               </l>
+               <l>And harmleſs Flocks their <hi>Lamentations</hi> ring,</l>
+               <l>While the poor <hi>Birds</hi> with <hi>doleful warbling</hi> ſing.</l>
+               <l>Let then this ſad uncomfortable <hi>Verſe,</hi>
+               </l>
+               <l>
+                  <hi>Embalm</hi> her <hi>Memory</hi> and <hi>bedew</hi> her <hi>Herſe.</hi>
+               </l>
+               <l>"<hi>Unmix'd,</hi> preſerve theſe <hi>Relicks; faithful</hi> prove,</l>
+               <l>"O <hi>Marble Urn!</hi> and <hi>conſtant</hi> as her <hi>Love.</hi>
+               </l>
+               <l>'Tis <hi>Love,</hi> that all do <hi>court,</hi> but few can <hi>find,</hi>
+               </l>
+               <l>Springing from <hi>Actions</hi> rooted in the <hi>Mind:</hi>
+               </l>
+               <l>
+                  <hi>Sweet, Rich,</hi> and <hi>Strong,</hi> ſhe to the <hi>Centre</hi> drew,</l>
+               <l>As <hi>Honey, Jewels,</hi> and as <hi>Marrow</hi> do;</l>
+               <l>None, by the <hi>Storms of Life,</hi> was e're oppreſt,</l>
+               <l>But ſtill might find a <hi>Haven</hi> in her <hi>Breast.</hi>
+               </l>
+               <l>Why do ſuch <hi>Bleſſings</hi> end in <hi>ſharpest Pain,</hi>
+               </l>
+               <l>By being <hi>given</hi> to <hi>take back</hi> again?</l>
+               <l>Stay, run no farther, my <hi>impetuous Soul,</hi>
+               </l>
+               <l>This <hi>Anſwer</hi> does your <hi>flowing Grief</hi> controul;</l>
+               <l>Compute the <hi>Sum</hi> of your <hi>unwiſe Complaint,</hi>
+               </l>
+               <l>'Tis <hi>pious,</hi> ſhe <hi>liv'd</hi> and <hi>dy'd</hi> too ſoon a <hi>Saint:</hi>
+               </l>
+               <l>Conſider, there's not only a <hi>Regard</hi>
+               </l>
+               <l>Due to your <hi>Interest,</hi> but to her <hi>Reward;</hi>
+               </l>
+               <pb n="67" facs="tcp:100456:35"/>
+               <l>You ought your <hi>Loſs</hi> with <hi>Patience</hi> to ſuſtain,</l>
+               <l>Since what's your <hi>Loſs</hi> is her <hi>immortal Gain:</hi>
+               </l>
+               <l>Can you repine, ſince ſhe in <hi>Beams of Light</hi>
+               </l>
+               <l>Soars in the <hi>Heavenly Regions</hi> pure and white,</l>
+               <l>Her <hi>Deeds reſplendant</hi> in a <hi>Crown</hi> more <hi>bright,</hi>
+               </l>
+               <l>With a <hi>Victorious Palm</hi> and <hi>Radiant Seat,</hi>
+               </l>
+               <l>Reigns there among <hi>MARIA'S Good</hi> and <hi>Great,</hi>
+               </l>
+               <l>Whilſt you'r <hi>depending</hi> on your <hi>Future State,</hi>
+               </l>
+               <l>Her <hi>lovely Vertues</hi> ſtrive to <hi>imitate.</hi>
+               </l>
+            </lg>
+         </div>
+         <div type="poem">
+            <head>
+               <hi>On my dear Friend Mr.</hi> Robert Harding.</head>
+            <lg>
+               <l>HOw have I <hi>wiſht</hi> and <hi>begg'd</hi> no <hi>Pen</hi> might ſend</l>
+               <l>A <hi>ſad reviving Thought</hi> of this my Friend,</l>
+               <l>Nor mention make, now he is <hi>gone,</hi> but I</l>
+               <l>Might let my <hi>Grief</hi> in <hi>huſh'd oblivion</hi> lye:</l>
+               <l>In vain I urge ſuch <hi>Means,</hi> to ſind <hi>retreat</hi>
+               </l>
+               <l>From <hi>Mourning Thoughts,</hi> my <hi>Sorrows</hi> to <hi>defeat,</hi>
+               </l>
+               <l>The <hi>loſs</hi> of ſuch <hi>vast Worth,</hi> ſo <hi>true</hi> a <hi>Friend,</hi>
+               </l>
+               <l>In all <hi>diſſolv'd Mortality</hi> muſt end;</l>
+               <l>And, if my <hi>Verſe</hi> may live to <hi>blaze</hi> his <hi>Praiſe,</hi>
+               </l>
+               <l>Which, like the <hi>Sun,</hi> darts with <hi>refulgent Rays,</hi>
+               </l>
+               <pb n="68" facs="tcp:100456:36"/>
+               <l>His <hi>Merit</hi> muſt, in <hi>Characters ſublime,</hi>
+               </l>
+               <l>Outlaſt the envious mouldring <hi>Fate</hi> of <hi>Time:</hi>
+               </l>
+               <l>In <hi>Friendſhip</hi>'s <hi>Orb</hi> no brighter <hi>Star</hi> appear'd,</l>
+               <l>Since by his <hi>good</hi> all was reviv'd and chear'd,</l>
+               <l>And, in his <hi>Nuptial Rites,</hi> example may</l>
+               <l>Proclaim his <hi>Life</hi> to be one <hi>Halcion-day;</hi>
+               </l>
+               <l>Deteſted <hi>Paths</hi> of <hi>Vice</hi> he nobly ſcorn'd,</l>
+               <l>Whilſt <hi>vertuous Precepts</hi> in his <hi>Breast</hi> he form'd;</l>
+               <l>While <hi>Vice</hi> he <hi>ſcorn'd, Fidelity</hi> he <hi>lov'd,</hi>
+               </l>
+               <l>'Twas <hi>Honour</hi> guided him and <hi>Pity</hi> mov'd;</l>
+               <l>Whatever <hi>Object</hi> was there in <hi>diſtreſs,</hi>
+               </l>
+               <l>
+                  <hi>Compaſſion</hi> could and did not ſoon <hi>reverſe?</hi>
+               </l>
+               <l>To <hi>adverſe Fate, diſtant</hi> and <hi>near,</hi> it ſlew,</l>
+               <l>And <hi>Priſoners,</hi> in <hi>pale Want,</hi> his <hi>Kindneſs</hi> knew.</l>
+               <l>
+                  <hi>Lofty</hi> indeed his <hi>Temper</hi> was to <hi>ſoar,</hi>
+               </l>
+               <l>But never <hi>turn'd</hi> his <hi>Back</hi> upon the <hi>Poor;</hi>
+               </l>
+               <l>Whoſe <hi>pious Acts</hi> aſpiring to <hi>reherſe,</hi>
+               </l>
+               <l>I loſe his <hi>GLORY</hi> in <hi>ſubmiſſive Verſe;</hi>
+               </l>
+               <l>Could <hi>Prayers</hi> avail for him, which cannot be,</l>
+               <l>What <hi>ſtore</hi> is due and ſhould be made by me?</l>
+               <l>Yet e're I end, let me call o're the <hi>Fate</hi>
+               </l>
+               <l>Did his <hi>great Kindneſs</hi> firſt to me create.</l>
+            </lg>
+            <lg>
+               <l>Pardon, if I digreſs, to ſing the <hi>Fame</hi>
+               </l>
+               <l>Of his <hi>bright ſpotleſs Virgin-Daughter's Name,</hi>
+               </l>
+               <pb n="69" facs="tcp:100456:36"/>
+               <l>Whom <hi>Grace,</hi> like the <hi>Sun-ſhines,</hi> did <hi>adorn,</hi>
+               </l>
+               <l>When <hi>beauteous Rays</hi> guild firſt the <hi>baſhful Morn,</hi>
+               </l>
+               <l>In whoſe <hi>lovely Youth</hi> was the ſame <hi>Sweetneſs</hi> ſhewn,</l>
+               <l>As <hi>Flowers</hi> in <hi>Spring,</hi> or <hi>Roſes</hi> newly <hi>blown,</hi>
+               </l>
+               <l>
+                  <hi>ALICIA bright,</hi> that caſt her <hi>pleaſing Eye,</hi>
+               </l>
+               <l>To my <hi>indifferent State</hi> of <hi>Poverty,</hi>
+               </l>
+               <l>The <hi>charming dear One</hi> yet could <hi>love</hi> ſo true,</l>
+               <l>Scarce for a <hi>Minute</hi> I her <hi>Abſence</hi> knew,</l>
+               <l>Each place <hi>abroad,</hi> at <hi>home,</hi> where e're I be,</l>
+               <l>She, <hi>Angel-like, goes, meets</hi> or <hi>follows</hi> me.</l>
+               <l>
+                  <hi>Perpetual Kindneſs LOVE immenſly</hi> breeds,</l>
+               <l>
+                  <hi>LOVE,</hi> that all <hi>ſlight</hi> in <hi>Poetry</hi> exceeds,</l>
+               <l>Where <hi>flowing Kindneſs,</hi> tided to exceſs,</l>
+               <l>And mine proportion'd <hi>more</hi> than hers, not <hi>leſs.</hi>
+               </l>
+               <l>Had <hi>Fate</hi> propos'd a <hi>Choice,</hi> one I muſt have,</l>
+               <l>
+                  <hi>This fair one's Death,</hi> or my <hi>own ſudden Grave?</hi>
+               </l>
+               <l>The <hi>last</hi> I ſhould have thought the <hi>mildest Doom,</hi>
+               </l>
+               <l>To <hi>Engrave</hi> her <hi>Friendſhip</hi> on my <hi>finite Tomb.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>But ceaſe, my <hi>Muſe,</hi> ceaſe, leſt I now deſpair,</l>
+               <l>To think how I <hi>lost her,</hi> that was ſo <hi>dear;</hi>
+               </l>
+               <l>
+                  <hi>Marriage,</hi> which fixes <hi>Lovers</hi> in <hi>one State,</hi>
+               </l>
+               <l>Divides us <hi>two</hi> to Places <hi>ſeparate;</hi>
+               </l>
+               <l>The <hi>Daughter</hi>'s loſs, the <hi>Father</hi> would repair,</l>
+               <l>By a <hi>High Friendſhip</hi> and <hi>Paternal Care,</hi>
+               </l>
+               <pb n="70" facs="tcp:100456:37"/>
+               <l>Whoſe <hi>worthy Soul</hi> with <hi>Vertue</hi> quite is fled,</l>
+               <l>And, in his <hi>Sex,</hi> (for ought I know) <hi>true Kindneſs</hi> wholly dead.</l>
+               <l>
+                  <hi>Sighs</hi> may <hi>condole:</hi> But hold, ſome <hi>Cherub</hi> ſure,</l>
+               <l>Allays my <hi>Grief</hi> with this <hi>blest balmy</hi> Cure;</l>
+               <l>
+                  <hi>Think</hi> and <hi>conſider</hi> well, <hi>obſerve</hi> the <hi>End,</hi>
+               </l>
+               <l>Who was it <hi>gave</hi> and <hi>took away</hi> your <hi>Friend,</hi>
+               </l>
+               <l>
+                  <hi>He</hi> that <hi>gives</hi> all things <hi>good,</hi> and can <hi>reſtore</hi>
+               </l>
+               <l>What-e're you <hi>want;</hi> ceaſe, Mortal, to <hi>deplore,</hi>
+               </l>
+               <l>
+                  <hi>Uſe</hi> pious <hi>Job</hi>'s <hi>Expreſſion,</hi> and no <hi>more.</hi>
+               </l>
+            </lg>
+         </div>
+         <div type="poem">
+            <head>
+               <hi>An</hi> EPITAPH <hi>on the Pious Ma<g ref="char:EOLhyphen"/>dam</hi> Mary Carter.</head>
+            <lg>
+               <l>BRight <hi>Soul,</hi> whoſe <hi>Sacred Relicks</hi> I muſt <hi>mourn,</hi>
+               </l>
+               <l>Till from my <hi>Toils</hi> I <hi>ſleep</hi> in <hi>peaceful Urn;</hi>
+               </l>
+               <l>Then <hi>follow thee,</hi> to make one <hi>Witneſs</hi> more,</l>
+               <l>Of all thy <hi>righteous Deeds</hi> heap'd up in ſtore.</l>
+               <l>Thy <hi>Pious Days</hi> Heaven does already know,</l>
+               <l>By <hi>Prayers,</hi> that <hi>minutely</hi> did from thee <hi>flow,</hi>
+               </l>
+               <l>Such was thy <hi>Converſe,</hi> ſo <hi>Divine</hi> below.</l>
+               <l>Thine <hi>Alms, Christ's needy Members</hi> every-where,</l>
+               <l>Refreſh'd with <hi>Love</hi> and <hi>Bounty,</hi> will declare.</l>
+               <l>O! with what <hi>dazling Glories</hi> art thou <hi>crown'd!</hi>
+               </l>
+               <l>What <hi>Songs</hi> in <hi>Heaven</hi> did at thy <hi>Entrance ſound.</hi>
+               </l>
+            </lg>
+         </div>
+         <div type="poem">
+            <pb n="71" facs="tcp:100456:37"/>
+            <head>A SATYR.</head>
+            <lg>
+               <l>AS <hi>Dungeons</hi> are for <hi>Criminals</hi> prepar'd,</l>
+               <l>
+                  <hi>Tyburn</hi> and <hi>Gyves</hi> too is their juſt Reward;</l>
+               <l>So <hi>Satyr</hi>'s <hi>Laſh</hi> dipt, poiſon'd in <hi>Diſgrace,</hi>
+               </l>
+               <l>Is fit to Scourge the <hi>Vice</hi> of <hi>Human Race.</hi>
+               </l>
+               <l>Did not the <hi>Lamb of God,</hi> with <hi>Sacred Terror,</hi>
+               </l>
+               <l>Reprove all <hi>Phariſaic Sins</hi> and <hi>Error?</hi>
+               </l>
+               <l>Where's then my <hi>Muſe?</hi> Does my <hi>Poetick Vein!</hi>
+               </l>
+               <l>Want <hi>Skill</hi> or <hi>Courage</hi> for this uſeful Strain?</l>
+               <l>
+                  <hi>Baptiſmal Vows</hi> engage <hi>Heroick Minds,</hi>
+               </l>
+               <l>
+                  <hi>Women</hi> are <hi>valiant,</hi> tho' of <hi>different Kinds,</hi>
+               </l>
+               <l>And tho' my <hi>Sex</hi> is weak, my <hi>Heart</hi>'s not ſo:</l>
+               <l>Lead on my <hi>Chief,</hi> I fear not where I go.</l>
+               <l>Inſtruct me <hi>LORD,</hi> I wait for <hi>thy Command,</hi>
+               </l>
+               <l>Without <hi>it</hi> I dare ſtir not Foot or Hand.</l>
+               <l>I begg'd again, and then my <hi>LORD</hi> reply'd,</l>
+               <l>
+                  <hi>My</hi> Precepts <hi>and</hi> Example <hi>be your</hi> Guide;</l>
+               <l>
+                  <hi>Go follow them.</hi> Strait then I call'd to mind</l>
+               <l>His <hi>Golden Rule,</hi> propitious left behind:</l>
+               <l>Firſt <hi>cast away</hi> the <hi>Beam</hi> that hides the <hi>Light</hi>
+               </l>
+               <l>Of thine own <hi>Eye,</hi> deluded Hypocrite;</l>
+               <l>
+                  <hi>Which,</hi> once <hi>remov'd,</hi> thou <hi>better</hi> may'ſt <hi>diſcern</hi>
+               </l>
+               <l>The <hi>little Mote</hi> thy <hi>Brother</hi> does <hi>concern,</hi>
+               </l>
+               <pb n="72" facs="tcp:100456:38"/>
+               <l>And with more reaſon ask to pull it out,</l>
+               <l>When thy <hi>clear Light</hi> diſpels his <hi>darker Doubt:</hi>
+               </l>
+               <l>But if <hi>black Vice</hi> thy <hi>Life</hi> it ſelf betray,</l>
+               <l>And thou pretend'ſt to <hi>Guide</hi> the <hi>perfect Way,</hi>
+               </l>
+               <l>'Tis like a <hi>blind Man</hi> raving in a <hi>Heat,</hi>
+               </l>
+               <l>Inſpir'd by ſome <hi>ridiculous Conceit,</hi>
+               </l>
+               <l>He's able to lead all that go aſtray;</l>
+               <l>His <hi>Tongue</hi> crys out, his <hi>Feet</hi> quite miſs the way;</l>
+               <l>Sometimes his <hi>Steps</hi> are <hi>right,</hi> but rarely ſo;</l>
+               <l>Still with <hi>invective</hi> Bawls, <hi>You falſly go.</hi>
+               </l>
+               <l>Should this his <hi>Conduct</hi> be by <hi>Prudence</hi> try'd,</l>
+               <l>Would he be thought a <hi>Madman</hi> or a <hi>Guide?</hi>
+               </l>
+               <l>Our <hi>Saviour,</hi> e're ſuch Work he did begin,</l>
+               <l>Ask'd, <hi>Which of you convinces me of Sin?</hi>
+               </l>
+               <l>And muſt his <hi>ſpotleſs Life</hi> a Pattern be</l>
+               <l>Imitable for ſuch a <hi>Worm</hi> as me?</l>
+               <l>The great <hi>Example</hi> I can never reach,</l>
+               <l>Alas! I want time more to <hi>Watch</hi> than <hi>Preach.</hi>
+               </l>
+               <l>My <hi>Self</hi> is <hi>Task</hi> ſufficient to look o're,</l>
+               <l>I find no <hi>Moment</hi> where I need <hi>explore</hi>
+               </l>
+               <l>The <hi>Faults</hi> of <hi>others,</hi> but my <hi>own deplore.</hi>
+               </l>
+               <l>And now I <hi>beg,</hi> ſince my <hi>Deſign</hi> has miſt,</l>
+               <l>
+                  <hi>Make me true</hi> Chriſtian, <hi>tho' no</hi> Satyriſt.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <pb n="73" facs="tcp:100456:38"/>
+            <head>Of the HEART.</head>
+            <lg>
+               <l>WHat tho' the <hi>Soul</hi> myſterious is to <hi>Art,</hi>
+               </l>
+               <l>And <hi>all</hi> in <hi>all</hi> and <hi>all</hi> in <hi>every part,</hi>
+               </l>
+               <l>Yet we conceive the <hi>Heart,</hi> by <hi>Nerves</hi> and <hi>Veins,</hi>
+               </l>
+               <l>Does vivifie the <hi>Body</hi> and the <hi>Brains;</hi>
+               </l>
+               <l>For as the <hi>Senſes</hi> from the <hi>Spirits</hi> move,</l>
+               <l>Inſpiring <hi>Rays</hi> with <hi>Simpathetick Love,</hi>
+               </l>
+               <l>So <hi>GOD</hi>'s <hi>Eſſential Goodneſs</hi> moſt requires</l>
+               <l>By <hi>Conſecrating Gifts</hi> to <hi>Mens Deſires;</hi>
+               </l>
+               <l>Say but from <hi>thee</hi> the <hi>ſmallest Preſent</hi> came,</l>
+               <l>It kindles all <hi>Acceptance</hi> in a <hi>Flame;</hi>
+               </l>
+               <l>Hence, hence, the <hi>Pulſe</hi> that gives <hi>Life</hi>'s <hi>Lamp</hi> its eaſe,</l>
+               <l>Hence all the <hi>endearing Ties</hi> that <hi>Lovers</hi> pleaſe;</l>
+               <l>So rare a <hi>Jewel</hi> ſure has no <hi>deceit,</hi>
+               </l>
+               <l>Nothing that's vain, but <hi>Vertue</hi> all <hi>compleat,</hi>
+               </l>
+               <l>My <hi>Thoughts</hi> ſincerely bleſt, in my eſteem,</l>
+               <l>All <hi>pure, divine, immaculate,</hi> did ſeem,</l>
+               <l>Whilſt my <hi>conſenting Heart</hi> in rapture vow'd,</l>
+               <l>Henceforth no <hi>Sin</hi> ſhall be by me <hi>allow'd,</hi>
+               </l>
+               <l>But that my <hi>Conſcience</hi> ſhould in <hi>Empire reign,</hi>
+               </l>
+               <l>Never to be <hi>oppos'd</hi> by <hi>Vice</hi> again.</l>
+               <l>And as my <hi>weary Knees</hi> the <hi>Centre</hi> preſs'd,</l>
+               <l>It ſeem'd <hi>convulſive</hi> in my <hi>trembling Breast,</hi>
+               </l>
+               <pb n="74" facs="tcp:100456:39"/>
+               <l>Darting full <hi>Torrents</hi> through mine Eyes in <hi>Tears,</hi>
+               </l>
+               <l>And <hi>ſhivering gaſp'd,</hi> almoſt <hi>expir'd</hi> in <hi>fears,</hi>
+               </l>
+               <l>Implor'd the <hi>LORD</hi> in this <hi>diſtreſs</hi> of <hi>need,</hi>
+               </l>
+               <l>T' aſſiſt a <hi>Heart,</hi> that for <hi>Offence</hi> does <hi>bleed;</hi>
+               </l>
+               <l>Kind <hi>Heaven</hi> aſſents, and, with propitious <hi>Grant,</hi>
+               </l>
+               <l>Aſſur'd the <hi>Comfort</hi> that my <hi>Heart</hi> did want,</l>
+               <l>And, from the depth of <hi>Sin,</hi> drew it as high</l>
+               <l>As the <hi>bleſs'd Region</hi> of <hi>Immortal Joy:</hi>
+               </l>
+               <l>From this <hi>Divine Aſcent,</hi> tranſported, cry'd,</l>
+               <l>
+                  <hi>Vain is that Fool that does in</hi> Sin <hi>abide.</hi>
+               </l>
+               <l>My <hi>Lips</hi> o'rejoy'd, at the <hi>Converſion,</hi> ſung,</l>
+               <l>As <hi>David</hi> when his <hi>tuneful Harp</hi> he ſtrung,</l>
+               <l>And, to my <hi>pleaſing Thoughts,</hi> theſe <hi>Words</hi> I mix'd,</l>
+               <l>
+                  <hi>My</hi> Heart <hi>to</hi> Sacred Joys <hi>is ever fix'd.</hi>
+               </l>
+               <l>Thus liv'd I in <hi>Serenity</hi> and <hi>Mirth</hi>
+               </l>
+               <l>An <hi>Angel</hi>'s <hi>Life</hi> almoſt upon the <hi>Earth.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>But O! the <hi>Blast</hi> this <hi>pious Life</hi> deſtroys,</l>
+               <l>
+                  <hi>Hypocriſie</hi> the <hi>bliſsful Stream</hi> annoys;</l>
+               <l>My <hi>Conſcience,</hi> to whoſe <hi>Empire</hi> my <hi>Heart ſwore,</hi>
+               </l>
+               <l>Strives to <hi>depoſe</hi> the <hi>Conduct</hi> of its <hi>Power,</hi>
+               </l>
+               <l>Till with a <hi>hideous Guilt,</hi> by <hi>horrid Sin,</hi>
+               </l>
+               <l>Agaſt, I durſt not caſt a <hi>Look</hi> within,</l>
+               <l>And tho' my <hi>conſcious Heart</hi> ſtood knowing by,</l>
+               <l>That <hi>Acts</hi> nor <hi>Thoughts</hi> from the <hi>Omniſcient Eye</hi>
+               </l>
+               <pb n="75" facs="tcp:100456:39"/>
+               <l>Was hid in vain, <hi>Deluſion</hi> ſeem'd to think.</l>
+               <l>That the <hi>All-just</hi> ſhould at our <hi>Frailties</hi> wink,</l>
+               <l>And when my <hi>Private Prayers</hi> I do direct</l>
+               <l>With <hi>Holy Praiſe</hi> and moſt <hi>Divine Reſpect,</hi>
+               </l>
+               <l>Yet, when <hi>GOD</hi>'s <hi>Sacred Court</hi> I come within,</l>
+               <l>I <hi>contemplate</hi> and <hi>gaze,</hi> all <hi>dark</hi> with <hi>Sin,</hi>
+               </l>
+               <l>And, while the <hi>Pteacher</hi> tells what I ſhould <hi>learn,</hi>
+               </l>
+               <l>My <hi>Thoughts</hi> rove, buſie in ſome <hi>ſtrange Concern,</hi>
+               </l>
+               <l>Confus'd with <hi>odious Things,</hi> I cannot <hi>ſpeak,</hi>
+               </l>
+               <l>And which, to ſhun, <hi>Mortality</hi>'s too <hi>weak;</hi>
+               </l>
+               <l>My <hi>Mind</hi> grows <hi>wild,</hi> my <hi>Soul</hi> in terror <hi>rav'd,</hi>
+               </l>
+               <l>By what I <hi>truſted</hi> thus to be <hi>deoeiv'd.</hi>
+               </l>
+               <l>Then, to my <hi>GOD,</hi> with <hi>weeping Eyes</hi> I turn,</l>
+               <l>In <hi>deep diſtreſs</hi> I <hi>ſupplicate</hi> and <hi>mourn;</hi>
+               </l>
+               <l>
+                  <hi>All-powerful GOD,</hi> this <hi>Heart</hi> from me receive,</l>
+               <l>Since, by <hi>Deſpair,</hi> I muſt for ever grieve.</l>
+               <l>Or, if this longer muſt with me <hi>remain,</hi>
+               </l>
+               <l>Vouchſafe, <hi>great GOD,</hi> once more to make it <hi>clean,</hi>
+               </l>
+               <l>I know <hi>thy Blood</hi> can waſh out <hi>every ſtain.</hi>
+               </l>
+               <l>And, whilſt I live, henceforth I'll ſet a <hi>guard,</hi>
+               </l>
+               <l>
+                  <hi>Surpizing Thoughts,</hi> not <hi>good,</hi> ſhall be debarr'd;</l>
+               <l>A <hi>Watch</hi> I'll keep as long as I keep <hi>Breath,</hi>
+               </l>
+               <l>To help ſecure my <hi>Vertue</hi> till my <hi>Death;</hi>
+               </l>
+               <l>I'll ſend to all my <hi>Friends</hi> to do the <hi>ſame,</hi>
+               </l>
+               <l>And truſt to more this <hi>rarity</hi> of <hi>Fame.</hi>
+               </l>
+               <pb n="76" facs="tcp:100456:40"/>
+               <l>But always <hi>Watch</hi> and <hi>Pray, Suſpect</hi> and <hi>Fear,</hi>
+               </l>
+               <l>While thou doſt <hi>juſtify,</hi> and make me <hi>Clear.</hi>
+               </l>
+            </lg>
+         </div>
+         <div type="poem">
+            <head>Thinking on the Life of our Bleſſed Saviour.</head>
+            <lg>
+               <l>WHy did my <hi>Lord,</hi> whom <hi>Heaven</hi> could not contain,</l>
+               <l>Chuſe to ſpend <hi>Life</hi> on <hi>Earth</hi> in <hi>toil</hi> &amp; <hi>pain,</hi>
+               </l>
+               <l>And not the <hi>Eaſe</hi> and <hi>Splendour</hi> of a <hi>Raign?</hi>
+               </l>
+               <l>Why did he, like a <hi>Man unfortunate,</hi>
+               </l>
+               <l>Walk <hi>thouſand weary Walks?</hi> No <hi>Pomp</hi> or <hi>State</hi>
+               </l>
+               <l>A <hi>Servant</hi> to that <hi>World</hi> he did <hi>create.</hi>
+               </l>
+               <l>Why did he let his <hi>ſpotleſs Name</hi> be us'd,</l>
+               <l>With <hi>Lips</hi> that ſlandrouſly that <hi>Name</hi> abus'd?</l>
+               <l>Why did he, who was all <hi>pure Innocence,</hi>
+               </l>
+               <l>Endure ſuch <hi>Rigours</hi> as attone <hi>Offence,</hi>
+               </l>
+               <l>Or bring the <hi>Wicked</hi> into <hi>Penitence?</hi>
+               </l>
+               <l>Methinks an <hi>inward Whiſper</hi> tells me why;</l>
+               <l>Tells me, my <hi>LORD</hi> was pleas'd to do't, that I</l>
+               <l>Might not <hi>deſpiſe</hi> thoſe <hi>Methods</hi> he approv'd,</l>
+               <l>Nor <hi>hate</hi> that ſort of <hi>Life</hi> himſelf has lov'd.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <pb n="77" facs="tcp:100456:40"/>
+            <head>
+               <hi>Reflections upon my extraordinary Joy, at the Certain and Sudden News of Peace being concluded,</hi> Sept. 1697.</head>
+            <lg>
+               <l>NIne Years <hi>Bellona</hi> brandiſh'd in <hi>full Pride,</hi>
+               </l>
+               <l>Till <hi>Chriſtian Land</hi> with <hi>Blood</hi> was <hi>ruddy dy'd,</hi>
+               </l>
+               <l>But <hi>Kings</hi> are <hi>reconcil'd</hi> and <hi>Wars</hi> muſt <hi>ceaſe,</hi>
+               </l>
+               <l>To give <hi>admittance</hi> to a <hi>glorious Peace;</hi>
+               </l>
+               <l>
+                  <hi>PEACE!</hi> is the <hi>Cry, aſſured Peace</hi> is come,</l>
+               <l>The <hi>charming Wonder</hi> ſtrikes my <hi>Senſes</hi> dumb;</l>
+               <l>
+                  <hi>Felicities</hi> in Loads a <hi>Peace</hi> repair,</l>
+               <l>And fill my <hi>Mind</hi> with more than I can bear;</l>
+               <l>My <hi>Knees</hi> fall on the <hi>Earth,</hi> to hear the <hi>Sound,</hi>
+               </l>
+               <l>And <hi>Tears of Joy</hi> run rowling to the <hi>Ground;</hi>
+               </l>
+               <l>The <hi>heating Beam</hi> does take away my <hi>Sleep,</hi>
+               </l>
+               <l>Exhales that <hi>Dew</hi> did my <hi>lull'd Spirits</hi> ſteep;</l>
+               <l>Like <hi>Philomel,</hi> my <hi>watchful Thoughts</hi> employ;</l>
+               <l>Her <hi>Thorn</hi> keeps her leſs waking than my <hi>Joy.</hi>
+               </l>
+               <l>Give me <hi>Aſſiſtance,</hi> ſome <hi>kind Power,</hi> to bear</l>
+               <l>The <hi>Extaſies,</hi> while this <hi>bleſs'd News</hi> I hear.</l>
+               <l>I did not think <hi>all Earth</hi> could <hi>give</hi> or <hi>find</hi>
+               </l>
+               <l>Such <hi>Pleaſure</hi> to my <hi>Pleaſure-hating Mind;</hi>
+               </l>
+               <pb n="78" facs="tcp:100456:41"/>
+               <l>'Tis true, the <hi>Joy</hi> is <hi>rational</hi> and <hi>just,</hi>
+               </l>
+               <l>Fitting to be <hi>allow'd:</hi> But dare I truſt</l>
+               <l>My <hi>Thoughts</hi> to rove in ſuch a <hi>vast Content,</hi>
+               </l>
+               <l>And <hi>Raptures</hi> of <hi>unlimitted Extent;</hi>
+               </l>
+               <l>When <hi>this</hi> is not the <hi>Peace,</hi> my Soul muſt calm,</l>
+               <l>Nor this the fair <hi>white Dove,</hi> that brings my <hi>Palm,</hi>
+               </l>
+               <l>The <hi>great IRENE,</hi> that ſecures me bleſt</l>
+               <l>In <hi>endleſs Joys,</hi> the <hi>Eternity</hi> of <hi>Rest?</hi>
+               </l>
+               <l>No, that's <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <hi>Peace</hi> in my own <hi>Empire-mind,</hi>
+               </l>
+               <l>A Place of <hi>Reſidence</hi> for <hi>GOD</hi> deſign'd,</l>
+               <l>By <hi>Actions just</hi> and <hi>pure</hi> of every kind:</l>
+               <l>'Tis on <hi>this Peace</hi> that I muſt build alone,</l>
+               <l>
+                  <hi>Tother</hi> I may <hi>enjoy,</hi> yet be <hi>undone;</hi>
+               </l>
+               <l>This is the <hi>Peace reſplendant Beings</hi> praiſe,</l>
+               <l>And to the <hi>Spangl'd Roof</hi> the <hi>Eccho's</hi> raiſe,</l>
+               <l>The <hi>lofty Arches</hi> mightily reſound,</l>
+               <l>And <hi>Heaven</hi>'s <hi>Inhabitants,</hi> in <hi>Raptures</hi> drown'd,</l>
+               <l>The <hi>joyful Chorus</hi> charm <hi>Eternal</hi> round.</l>
+            </lg>
+            <lg>
+               <l>O! <hi>New Jeruſalem,</hi> for thy <hi>Peace</hi> I long,</l>
+               <l>Thy <hi>Io-Peons</hi> in <hi>Immortal Song,</hi>
+               </l>
+               <l>To <hi>Heavenly Lyres</hi> and <hi>Hallelujah's</hi> tun'd,</l>
+               <l>
+                  <hi>Ayrs</hi> that <hi>Britannia</hi>'s <hi>Peace</hi> can never ſound;</l>
+               <l>Thy <hi>Triumphs</hi> are <hi>magnificent</hi> and <hi>rare;</hi>
+               </l>
+               <l>Thy <hi>Joys</hi> unmix'd with <hi>Sin,</hi> with <hi>Fright,</hi> or <hi>Care;</hi>
+               </l>
+               <pb n="79" facs="tcp:100456:41"/>
+               <l>
+                  <hi>Brighter</hi> than <hi>Sun,</hi> more <hi>laſting</hi> far than <hi>Time;</hi>
+               </l>
+               <l>
+                  <hi>Eternal bleſs'd, unparalell'd ſublime;</hi>
+               </l>
+               <l>O! that my <hi>Hours</hi> to come may all be ſpent</l>
+               <l>In ſeeking <hi>this,</hi> above all <hi>Earth</hi>'s content:</l>
+               <l>O! that I could <hi>expreſs</hi> what <hi>Joy</hi> there lies</l>
+               <l>In but a <hi>Hope</hi> of this <hi>unfading Prize;</hi>
+               </l>
+               <l>The <hi>Univerſe</hi> comes ſhort to equal <hi>this,</hi>
+               </l>
+               <l>In <hi>Glory</hi> or <hi>Duration, State</hi> or <hi>Bliſs.</hi>
+               </l>
+               <l>Go then, my <hi>Pilgrim-Soul,</hi> purſue the <hi>Way,</hi>
+               </l>
+               <l>Through <hi>Brakes</hi> and <hi>Rocks, Black Seas</hi> and <hi>Stormy Day;</hi>
+               </l>
+               <l>Through <hi>wonted Conflicts</hi> and <hi>tremendous Griefs;</hi>
+               </l>
+               <l>Through <hi>narrow Paſſages</hi> and <hi>ſtraitned Cliffs;</hi>
+               </l>
+               <l>Through <hi>Vanities</hi> to <hi>allure,</hi> and <hi>Foes</hi> to <hi>Fright;</hi>
+               </l>
+               <l>The <hi>Snares</hi> of <hi>Flattery</hi> and the <hi>Darts</hi> of <hi>Spight;</hi>
+               </l>
+               <l>Through <hi>Pains</hi> and <hi>Miſeries, Tears, Toil, Doubts</hi> and <hi>Strife,</hi>
+               </l>
+               <l>All the whole <hi>long-train'd Cavalcade</hi> of <hi>Life,</hi>
+               </l>
+               <l>Through <hi>Slanders, Slights, Wrongs, Wants,</hi> the <hi>ſwelling Flood,</hi>
+               </l>
+               <l>That does but <hi>Tempest-toſs</hi> poor <hi>Fleſh</hi> &amp; <hi>Blood:</hi>
+               </l>
+               <l>Through <hi>theſe,</hi> all <hi>theſe,</hi> and <hi>thouſand, thouſand</hi> more,</l>
+               <l>Sail, <hi>happy Voyager,</hi> to that <hi>bleſs'd Shore,</hi>
+               </l>
+               <l>Where no <hi>Waves</hi> daſh, nor <hi>Winds</hi> nor <hi>Tempest</hi> roar;</l>
+               <l>To that <hi>Divine, true Halcion Nest</hi> above,</l>
+               <l>The <hi>Manſions</hi> of <hi>Beatitude</hi> and <hi>Love,</hi>
+               </l>
+               <l>That <hi>Union</hi> no <hi>dividing Foes</hi> ſhall ſever,</l>
+               <l>But the <hi>white Flag of Peace</hi> hangs out for ever.</l>
+            </lg>
+         </div>
+         <div type="poem">
+            <pb n="80" facs="tcp:100456:42"/>
+            <head>
+               <hi>To my</hi> Mother <hi>the</hi> CHURCH.</head>
+            <lg>
+               <l>
+                  <hi>UNfeign'd,</hi> as <hi>Martyrs</hi> in the Days of Yore,</l>
+               <l>Whoſe precious <hi>Blood</hi> their <hi>Teſtimonials</hi> bore,</l>
+               <l>Grant, <hi>Holy Mother,</hi> (high <hi>Oblation</hi> due)</l>
+               <l>My <hi>Humble Lays</hi> I conſecrate to <hi>you,</hi>
+               </l>
+               <l>Whoſe <hi>Pious Care</hi> in Infancy did bloom</l>
+               <l>With <hi>Fruit,</hi> ſelected from <hi>corrupted Rome;</hi>
+               </l>
+               <l>Your <hi>Hallow'd Rites</hi> inſpir'd me firſt to ſee,</l>
+               <l>And from <hi>Exreams</hi> of <hi>Peril</hi> ſet me free,</l>
+               <l>Guiding to <hi>bliſsful Rest</hi> the Milky Way,</l>
+               <l>Whoſe <hi>Streams</hi> of <hi>Light</hi> point to <hi>Eternal Day:</hi>
+               </l>
+               <l>No <hi>Superſtition</hi> does your <hi>Precepts,</hi> ſtain,</l>
+               <l>Nor <hi>Zeal enthuſiaſtick</hi> with you reign;</l>
+               <l>But <hi>Love divine</hi> ſlows with a kind <hi>Embrace,</hi>
+               </l>
+               <l>Kindles <hi>Seraphick Flames, enlightning Grace,</hi>
+               </l>
+               <l>Whilſt <hi>Heaven,</hi> like <hi>Life,</hi> which centures in the <hi>Heart,</hi>
+               </l>
+               <l>Inflames <hi>religious Beams</hi> through every <hi>part,</hi>
+               </l>
+               <l>By Spiritual <hi>Manna</hi> fed, I <hi>Wiſdom</hi> ſind,</l>
+               <l>Bleſt <hi>Miſtick Rules</hi> invelope in my Mind;</l>
+               <l>
+                  <hi>Free-will</hi> directs my <hi>Actions</hi> how to ſquare,</l>
+               <l>But <hi>Sacred Inſtinct</hi> cautions to beware,</l>
+               <l>It bids me not this <hi>World</hi> and <hi>Life</hi> abjure,</l>
+               <l>But checks my <hi>Paths</hi> where <hi>vicious Baits</hi> allure,</l>
+               <pb n="81" facs="tcp:100456:42"/>
+               <l>Inſtructs with <hi>Hallelujahs</hi> praiſe to ſing,</l>
+               <l>
+                  <hi>Unerring Truths</hi> of <hi>Sion</hi>'s gracious King,</l>
+               <l>
+                  <hi>True Dictates</hi> of Parental Heavenly Guide,</l>
+               <l>Which does enſure <hi>Salvation</hi> on my ſide.</l>
+               <l>
+                  <hi>Theſe</hi> and the <hi>rest,</hi> more fully to reherſe,</l>
+               <l>More <hi>Volumes</hi> crave than <hi>Tribute</hi> of my <hi>Verſe;</hi>
+               </l>
+               <l>But, as in Duty bound, <hi>Devotion</hi> ſhall</l>
+               <l>For ever <hi>pray</hi> for you, as <hi>you</hi> for all,</l>
+               <l>Whilſt <hi>Cherubs</hi> ſound in their <hi>melodious Choir,</hi>
+               </l>
+               <l>And I ſtill <hi>Offerings</hi> pay on conſtant <hi>Lyre;</hi>
+               </l>
+               <l>Reign, <hi>Phoenix</hi>-like, thy Aſhes gives <hi>new Birth,</hi>
+               </l>
+               <l>Nor finite <hi>periſh</hi> in the <hi>mouldring Earth,</hi>
+               </l>
+               <l>But as in <hi>Sickneſs</hi> Nature's <hi>Power</hi> will ſtrive,</l>
+               <l>The Patients <hi>ſtrong</hi> do grow and <hi>Pains</hi> ſurvive;</l>
+               <l>So let the <hi>past Convulſions</hi> reinſtate</l>
+               <l>
+                  <hi>Immortal Health,</hi> to foil the <hi>Stroke</hi> of <hi>Fate,</hi>
+               </l>
+               <l>The <hi>Triumphs</hi> of thy <hi>Toils</hi> ſhall <hi>endleſs</hi> be,</l>
+               <l>And <hi>ſweet</hi> too, as the <hi>Love</hi> I bear to <hi>thee.</hi>
+               </l>
+            </lg>
+         </div>
+         <div type="poem">
+            <pb n="82" facs="tcp:100456:43"/>
+            <head>
+               <hi>On the</hi> VERSES <hi>ſome Gentlemen preſented me, which are placed at the beginning of my Book.</hi>
+            </head>
+            <lg>
+               <l>VAſt is the <hi>Joy,</hi> when <hi>Tranſports</hi> do inſpire,</l>
+               <l>Which, <hi>Lightning</hi>-like, ſtrikes with <hi>Poetick Fire:</hi>
+               </l>
+               <l>Raviſh'd! I gaze, and wonder to reherſe</l>
+               <l>Thoſe <hi>high Encomiums</hi> you vouchſafe my <hi>Verſe.</hi>
+               </l>
+               <l>But, O what <hi>Chill</hi> does <hi>Nature</hi>'s <hi>Frailty</hi> raiſe!</l>
+               <l>
+                  <hi>Truth</hi> ſtrikes a Damp in <hi>Contemplations</hi> maze;</l>
+               <l>I view like him that ſees the <hi>Weapon</hi> fly,</l>
+               <l>But can't avoid the <hi>Dart</hi> that makes him dye,</l>
+               <l>Such <hi>dazling Flights</hi> ſo <hi>great Surprize</hi> impart,</l>
+               <l>As does <hi>confuſe</hi> and <hi>wound</hi> my <hi>ſinking Heart;</hi>
+               </l>
+               <l>A thouſand <hi>ſtrange Reflections</hi> ſeize my <hi>Breast,</hi>
+               </l>
+               <l>And <hi>trembling Fits</hi> my <hi>peaceful Hours</hi> moleſt.</l>
+               <l>
+                  <hi>Diſcourſes, grave</hi> and <hi>myſtick,</hi> uſe to move,</l>
+               <l>Perplex my <hi>Mind</hi> with <hi>Wiſdom</hi> from above,</l>
+               <l>As <hi>Nathan</hi>'s <hi>Charge</hi> to <hi>David</hi> did controul</l>
+               <l>That <hi>Man of GOD</hi> with <hi>Anguiſh</hi> in his <hi>Soul;</hi>
+               </l>
+               <l>So you, like <hi>faithful Monitors,</hi> declare,</l>
+               <l>My <hi>Time</hi> and <hi>Life</hi> but tranſitory are;</l>
+               <pb n="83" facs="tcp:100456:43"/>
+               <l>Tell me of my <hi>Tranſlation</hi> and of <hi>Powers,</hi>
+               </l>
+               <l>Of <hi>Finite Beings,</hi> and of <hi>Fleeting Hours,</hi>
+               </l>
+               <l>Inferr the <hi>Grave</hi> compleatly all devours,</l>
+               <l>
+                  <hi>Diſmal</hi> and <hi>heavy Thoughts</hi> methinks to me.</l>
+               <l>Your <hi>lofty Verſe</hi> proclaims <hi>Mortality,</hi>
+               </l>
+               <l>As tho' it were my <hi>Living Elegy;</hi>
+               </l>
+               <l>Deck'd with a <hi>Theme of Praiſe</hi> and <hi>Mournful State,</hi>
+               </l>
+               <l>Like <hi>warning Trumpets,</hi> o're my <hi>Death</hi> and <hi>Fate,</hi>
+               </l>
+               <l>I'm flatter'd with a <hi>Crown</hi> of <hi>Sacred Bays,</hi>
+               </l>
+               <l>With <hi>poliſh'd Sence,</hi> expreſs'd in <hi>tuneful Lays;</hi>
+               </l>
+               <l>
+                  <hi>Melodious Peals,</hi> which charm me to apply</l>
+               <l>Some <hi>Tears,</hi> to ſuit the <hi>Solemn Obſequy;</hi>
+               </l>
+               <l>
+                  <hi>Tears</hi> that allay and quench <hi>diſorder'd Strife,</hi>
+               </l>
+               <l>
+                  <hi>Fitting Attendants</hi> for a <hi>Dying-Life,</hi>
+               </l>
+               <l>Whil'ſt your <hi>harmonious Muſe</hi> in <hi>Vertue</hi> ſings</l>
+               <l>
+                  <hi>Sweet Strains</hi> of <hi>Death,</hi> which <hi>happy Life</hi> to me here-after brings.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
